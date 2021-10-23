@@ -1,0 +1,51 @@
+body {
+  background-color: #151719;
+  font-size: 14px;
+  font-family: "Helvetica Neue", Helvetica;
+  color: #00ff00;
+}
+
+#body {
+  margin: 0 auto;
+  position: relative;
+}
+
+#header {
+  font-size: 40px;
+  font-weight: bold;
+  top: 20px;
+  text-align: center;
+  color: #00ff00;
+}
+
+.legend {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  width: 380px;
+  font-size: 11px;
+  color: #00ff00;
+}
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  cursor: pointer;
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font-size: 12px;
+  fill: rgb(0, 0, 0);
+  stroke: #00ff00;
+}
+
+path.link {
+  fill: none;
+  stroke: #444;
+  stroke-width: 1px;
+}
