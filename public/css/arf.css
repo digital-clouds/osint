@@ -28,7 +28,7 @@ header {
 .node circle {
   cursor: pointer;
   fill: rgb(0, 255, 255);
-  stroke: indigo;
+  stroke: yellow;
   stroke-width: 2px;
 }
 
