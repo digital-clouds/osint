@@ -30,7 +30,7 @@ header {
 
 .node circle {
   cursor: pointer;
-  fill: #fff;
+  fill: #00FFFF;
   stroke: indigo;
   stroke-width: 1.5px;
 }
