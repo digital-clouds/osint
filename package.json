@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/lockfale/ARF#readme",
   "devDependencies": {
-    "copyfiles": "1.2.0",
+    "copyfiles": "2.4.1",
     "d3": "3.5.17"
   }
 }
