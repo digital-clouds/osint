@@ -2,7 +2,7 @@ body {
   background-color: #151719;
   font-size: 14px;
   font-family: "Helvetica Neue", Helvetica;
-  color: #00ff00;
+  color: lime;
   margin: 0 auto;
   position: relative;
 }
@@ -12,7 +12,7 @@ header {
   font-weight: bold;
   top: 20px;
   text-align: center;
-  color: #00ff00;
+  color: lime;
 }
 
 .legend {
