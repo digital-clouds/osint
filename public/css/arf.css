@@ -30,15 +30,15 @@ header {
 
 .node circle {
   cursor: pointer;
-  fill: #00FFFF;
-  stroke: indigo;
+  fill: indigo;
+  stroke: cyan;
   stroke-width: 1.5px;
 }
 
 .node text {
   font-size: 12px;
   fill: rgb(0, 255, 0);
-  stroke: #00ff00;
+  stroke: lime;
 }
 
 path.link {
