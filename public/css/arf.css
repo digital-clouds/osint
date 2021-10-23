@@ -31,13 +31,13 @@ header {
 .node circle {
   cursor: pointer;
   fill: #fff;
-  stroke: steelblue;
+  stroke: indigo;
   stroke-width: 1.5px;
 }
 
 .node text {
   font-size: 12px;
-  fill: rgb(0, 0, 0);
+  fill: rgb(0, 255, 0);
   stroke: #00ff00;
 }
 
