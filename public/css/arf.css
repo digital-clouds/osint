@@ -16,12 +16,8 @@ header {
 }
 
 .legend {
-  position: absolute;
-  top: 0px;
-  right: 0;
-  width: 380px;
-  font-size: 8px;
-  color: #00ff00;
+  font-size: 10px;
+  color: lime;
 }
 
 .node {
