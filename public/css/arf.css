@@ -16,6 +16,7 @@ header {
 }
 
 .legend {
+  font-weight: bold;
   font-size: 10px;
   color: lime;
 }
@@ -26,7 +27,7 @@ header {
 
 .node circle {
   cursor: pointer;
-  fill: indigo;
+  fill: #4B0082;
   stroke: cyan;
   stroke-width: 1.5px;
 }
