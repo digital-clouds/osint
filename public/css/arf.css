@@ -1,7 +1,7 @@
 body {
   background-color: #151719;
   font-size: 14px;
-  font-family: "Helvetica Neue", Helvetica;
+  font-family: "Raleway", Arial, sans-serif;
   color: lime;
   margin: 0 auto;
   position: relative;
@@ -13,6 +13,18 @@ header {
   top: 20px;
   text-align: center;
   color: lime;
+}
+
+a:link {
+    color: yellow;
+}
+
+a:visited {
+  color: lime;
+}
+
+a:hover {
+  color: indigo;
 }
 
 .legend {
@@ -27,19 +39,19 @@ header {
 
 .node circle {
   cursor: pointer;
-  fill: rgb(0, 255, 255);
+  fill: indigo;
   stroke: yellow;
   stroke-width: 2px;
 }
 
 .node text {
-  font-size: 12px;
+  font-size: 14px;
   fill: rgb(0, 255, 0);
   stroke: lime;
 }
 
 path.link {
   fill: none;
-  stroke: #444;
+  stroke: #777;
   stroke-width: 1px;
 }
