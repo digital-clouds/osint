@@ -5,7 +5,7 @@
   "main": "public/index.html",
   "scripts": {
     "postinstall": "copyfiles -f ./node_modules/d3/d3.min.js ./public/js/vendor/d3",
-    "start": "node_modules/http-server/bin/http-server public"
+    "start": "node_modules/http-server/bin/http-server public -i -g -b"
   },
   "repository": {
     "type": "git",
