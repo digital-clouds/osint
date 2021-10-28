@@ -19,7 +19,7 @@ body {
 
 .legend {
   font-weight: bold;
-  font-size: 11px;
+  font-size: 10px;
   color: lime;
 }
 
@@ -35,7 +35,7 @@ body {
 }
 
 .node text {
-  font-size: 11px;
+  font-size: 10px;
   fill: rgb(0, 255, 0);
   stroke: lime;
 }
