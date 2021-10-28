@@ -46,6 +46,17 @@ path.link {
   stroke-width: 1px;
 }
 
+hr {
+    position: relative;
+    display: block;
+    width: 100%;
+    margin: 2.5em 0 3.5em;
+    padding: 0;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #f0f0f0;
+}
+
 a:link {
     color: yellow;
 }
