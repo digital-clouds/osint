@@ -30,12 +30,13 @@ body {
 .node circle {
   cursor: pointer;
   fill: lime;
-  stroke: indigo;
+  stroke: lime;
   stroke-width: 2px;
 }
 
 .node text {
-  font-size: 10px;
+  font-family: var(--font-sans-serif);
+  font-size: 12px;
   fill: rgb(0, 255, 0);
   stroke: lime;
 }
