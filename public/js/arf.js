@@ -61,7 +61,7 @@ function update(source) {
 
   nodeEnter.append("svg:circle")
       .attr("r", 1e-6)
-      .style("fill", function(d) { return d._children ? "yellow" : "#00FF00"; });
+      .style("fill", function(d) { return d._children ? "magenta" : "yellow"; });
 
   nodeEnter.append('a')
       .attr("target", "_blank")
@@ -86,7 +86,7 @@ function update(source) {
 
   nodeUpdate.select("circle")
       .attr("r", 6)
-      .style("fill", function(d) { return d._children ? "yellow" : "#00FF00"; });
+      .style("fill", function(d) { return d._children ? "magenta" : "yellow"; });
 
   nodeUpdate.select("text")
       .style("fill-opacity", 1);
