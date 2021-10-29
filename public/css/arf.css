@@ -1,26 +1,32 @@
 :root {
-  --font-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  --font-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+    "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   --font-serif: Georgia, Times, serif;
   --font-mono: Menlo, Courier, monospace;
 }
 
 body {
-    background-color: #15171A;
-    font-family: var(--font-sans-serif);
-    font-size: 11px;
-    line-height: 1.6em;
-    font-weight: 400;
-    font-style: normal;
-    letter-spacing: normal;
-    color: lime;
-    margin: 0 auto;
-    position: relative;
+  background-color: #0a0b0c;
+  font-family: var(--font-sans-serif);
+  font-size: 12px;
+  color: lime;
+}
+
+#body {
+  margin: 0 auto;
+  position: relative;
 }
 
 .legend {
   font-weight: bold;
-  font-size: 10px;
+  font-size: 12px;
   color: lime;
+}
+
+.footer {
+  font-weight: bold;
+  font-size: 10px;
 }
 
 .node {
@@ -29,9 +35,9 @@ body {
 
 .node circle {
   cursor: pointer;
-  fill: lime;
+  fill: rgb(0, 255, 0);
   stroke: lime;
-  stroke-width: 2px;
+  stroke-width: 1.5px;
 }
 
 .node text {
@@ -43,27 +49,16 @@ body {
 
 path.link {
   fill: none;
-  stroke: #3a3a3a;
+  stroke: #333333;
   stroke-width: 1px;
 }
 
-hr {
-    position: relative;
-    display: block;
-    width: 100%;
-    margin: 2.5em 0 3.5em;
-    padding: 0;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #f0f0f0;
-}
-
 a:link {
-    color: yellow;
+  color: yellow;
 }
 
 a:visited {
-  color: greenyellow;
+  color: lime;
 }
 
 a:hover {

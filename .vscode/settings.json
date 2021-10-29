@@ -1,6 +1,11 @@
 {
     "json.maxItemsComputed": 25000,
     "cSpell.ignoreWords": [
-        "rier"
+        "rier",
+        "wicoop"
+    ],
+    "cSpell.enableFiletypes": [
+        "source.css.styled",
+        "toml"
     ]
 }
