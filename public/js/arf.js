@@ -75,7 +75,7 @@ function update(source) {
     .append("svg:circle")
     .attr("r", 1e-6)
     .style("fill", function (d) {
-      return d._children ? "black" : "yellow";
+      return d._children ? "black" : "#ffc822";
     });
 
   nodeEnter
@@ -116,7 +116,7 @@ function update(source) {
     .select("circle")
     .attr("r", 6)
     .style("fill", function (d) {
-      return d._children ? "black" : "yellow";
+      return d._children ? "black" : "#ffc822";
     });
 
   nodeUpdate.select("text").style("fill-opacity", 1);
