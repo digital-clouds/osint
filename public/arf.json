@@ -731,54 +731,14 @@
         {
           "children": [
             {
-              "name": "Ransomware Tracker Abuse.ch",
-              "type": "url",
-              "url": "http://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt"
-            },
-            {
-              "name": "Threatexpert.com Malicious URLs",
-              "type": "url",
-              "url": "http://www.networksec.org/grabbho/block.txt"
-            },
-            {
-              "name": "Zeus C2 Tracker",
-              "type": "url",
-              "url": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist"
-            },
-            {
-              "name": "Malware Domains Blacklist",
-              "type": "url",
-              "url": "http://mirror1.malwaredomains.com/files/domains.txt"
-            },
-            {
               "name": "Blackweb",
               "type": "url",
               "url": "https://github.com/maravento/blackweb"
             },
             {
-              "name": "Critical Stack Intel (R)",
-              "type": "url",
-              "url": "https://intel.criticalstack.com/"
-            },
-            {
-              "name": "DNS Sinkhole",
-              "type": "url",
-              "url": "http://malc0de.com/bl/"
-            },
-            {
-              "name": "DNS-BH Malware Domain Blocklist",
-              "type": "url",
-              "url": "http://www.malwaredomains.com/wordpress/?page_id=66"
-            },
-            {
-              "name": "Malware Domain List",
-              "type": "url",
-              "url": "http://www.malwaredomainlist.com/hostslist/hosts.txt"
-            },
-            {
               "name": "Malware Patrol (R)",
               "type": "url",
-              "url": "http://www.malware.com.br/open-source.shtml"
+              "url": "https://malwareblocklist.org/"
             },
             {
               "name": "MalwareURL (R)",
@@ -789,11 +749,6 @@
               "name": "scumware.org",
               "type": "url",
               "url": "https://www.scumware.org/"
-            },
-            {
-              "name": "ZeuS Tracker",
-              "type": "url",
-              "url": "https://zeustracker.abuse.ch/blocklist.php"
             },
             {
               "name": "Shadowserver Foundation",
