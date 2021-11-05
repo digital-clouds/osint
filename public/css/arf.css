@@ -63,7 +63,7 @@ body {
 
 .node text {
   font-family: var(--font-sans-serif);
-  font-size: 11px;
+  font-size: 12px;
   line-height: 0.8;
   fill: rgb(0, 255, 0);
   stroke: lime;
