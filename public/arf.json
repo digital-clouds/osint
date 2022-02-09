@@ -6366,9 +6366,9 @@
               "url": "https://www.pexels.com/"
             },
             {
-              "name": "Faker.js",
+              "name": "Fakerjs (T)",
               "type": "url",
-              "url": "https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html"
+              "url": "https://github.com/faker-js/faker"
             }
           ],
           "name": "Persona Creation",
