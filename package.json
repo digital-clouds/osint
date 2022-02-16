@@ -1,7 +1,7 @@
 {
   "name": "osint-rf",
   "version": "1.0.0",
-  "description": "Open Source Inteligence - Reconnaissance Framework",
+  "description": "Open Source Intelligence - Reconnaissance Framework",
   "main": "public/index.html",
   "scripts": {
     "format:check": "prettier --check '**/*.{js,css,json,md}'",
