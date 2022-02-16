@@ -1,15 +1,6 @@
 {
-    "json.maxItemsComputed": 25000,
-    "cSpell.ignoreWords": [
-        "midgrey",
-        "rier",
-        "wicoop"
-    ],
-    "cSpell.enableFiletypes": [
-        "source.css.styled",
-        "toml"
-    ],
-    "cSpell.words": [
-        "darkmode"
-    ]
+  "json.maxItemsComputed": 25000,
+  "cSpell.ignoreWords": ["midgrey", "rier", "wicoop"],
+  "cSpell.enableFiletypes": ["source.css.styled", "toml"],
+  "cSpell.words": ["darkmode"]
 }
