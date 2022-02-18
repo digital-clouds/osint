@@ -4378,9 +4378,9 @@
               "url": "https://github.com/techgaun/github-dorks"
             },
             {
-              "name": "GitLeaks",
+              "name": "Sourcegraph",
               "type": "url",
-              "url": "https://gitleaks.com/"
+              "url": "https://sourcegraph.com/search"
             }
           ],
           "name": "Code Search",
