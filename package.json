@@ -24,7 +24,12 @@
     "http-server": "14.1.0",
     "prettier": "2.6.1"
   },
-  "author": "Justin Nordine (s0lray)",
   "license": "MIT",
-  "packageManager": "yarn@3.2.0"
+  "packageManager": "yarn@3.2.0",
+  "resolutions": {
+    "minimist": ">=1.2.5",
+    "axios": ">=0.21.2",
+    "nth-check": ">=2.0.1",
+    "trim": ">=0.0.3"
+  }
 }
