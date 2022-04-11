@@ -429,9 +429,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"d3@npm:7.4.3":
-  version: 7.4.3
-  resolution: "d3@npm:7.4.3"
+"d3@npm:7.4.4":
+  version: 7.4.4
+  resolution: "d3@npm:7.4.4"
   dependencies:
     d3-array: 3
     d3-axis: 3
@@ -463,7 +463,7 @@ __metadata:
     d3-timer: 3
     d3-transition: 3
     d3-zoom: 3
-  checksum: 19aa9f3a83e26f5d2b41a63a1a18c6df8dad43ca1ce7f9993a873c6c17bd77c7cd0a563a5dc297bb33963ed823fa4970fe32d1dfc1c20f1aba3b20af4bf79969
+  checksum: 7ac001138e03546ff59633f2b48ab795e009e19018586c90a948d614ffc255aac585937f2bfe4265fb1e51799cc16cffbbc8a7030275036d5c4ea13c432c0dfc
   languageName: node
   linkType: hard
 
@@ -790,7 +790,7 @@ __metadata:
   resolution: "osint-rf@workspace:."
   dependencies:
     copyfiles: 2.4.1
-    d3: 7.4.3
+    d3: 7.4.4
     http-server: 14.1.0
     prettier: 2.6.2
   languageName: unknown
