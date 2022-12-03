@@ -20,7 +20,7 @@
   "homepage": "https://github.com/digital-clouds/osint#readme",
   "devDependencies": {
     "copyfiles": "2.4.1",
-    "d3": "7.6.1",
+    "d3": "7.7.0",
     "http-server": "14.1.1",
     "prettier": "2.8.0"
   },
