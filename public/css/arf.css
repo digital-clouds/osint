@@ -1,31 +1,31 @@
+@import url('https://cdn.jsdelivr.net/gh/ss-o/fonts@main/Hack/v3.003/web/hack.css');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
 :root {
   --font-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
     "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   --font-serif: Georgia, Times, serif;
-  --font-mono: Menlo, Courier, monospace;
+  --font-mono: 'JetBrains Mono', Hack, monospace;
   --color-green: #66db23;
   --color-yellow: #ffc822;
   --color-red: #df401c;
   --color-darkgrey: #15171a;
   --color-midgrey: #505050;
+  --color-darkmode: #151719;
   --color-lightgrey: #c6cccf;
   --color-wash: #e5eff5;
-  --color-darkmode: #151719;
 }
 
 html {
-  font-size: 62.5%;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 400;
 }
 
 body {
+  font-family: Hack, monospace;
   color: lime;
   background-color: var(--color-darkmode);
-  font-family: var(--font-sans-serif);
-  font-size: 1.6rem;
-  line-height: 1.6em;
-  font-weight: 400;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -62,7 +62,7 @@ body {
 }
 
 .node text {
-  font-family: var(--font-sans-serif);
+  font-family: Hack, monospace;
   font-size: 12px;
   line-height: 0.8;
   fill: rgb(0, 255, 0);
@@ -84,9 +84,14 @@ a:visited {
 }
 
 a:hover {
-  color: indigo;
+  color: cyan;
 }
 
 #fa {
   color: var(--color-yellow);
+}
+
+.gh {
+  color: gold;
+  font-size: 12px;
 }

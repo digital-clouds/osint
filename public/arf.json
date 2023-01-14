@@ -10,11 +10,6 @@
               "url": "https://namechk.com/"
             },
             {
-              "name": "Namechk (T)",
-              "type": "url",
-              "url": "https://github.com/HA71/Namechk"
-            },
-            {
               "name": "KnowEm",
               "type": "url",
               "url": "http://knowem.com/"
@@ -1477,11 +1472,6 @@
               "name": "Packet Total",
               "type": "url",
               "url": "http://www.packettotal.com/"
-            },
-            {
-              "name": "NetworkTotal",
-              "type": "url",
-              "url": "https://www.networktotal.com/"
             }
           ],
           "name": "Network Analysis Tools",
@@ -5430,11 +5420,6 @@
               "url": "https://live.ether.camp/transactions"
             },
             {
-              "name": "etherchain.org",
-              "type": "url",
-              "url": "https://etherchain.org/accounts/"
-            },
-            {
               "name": "Etherscan",
               "type": "url",
               "url": "https://etherscan.io/"
@@ -5454,11 +5439,6 @@
               "name": "Monero Blocks",
               "type": "url",
               "url": "http://moneroblocks.info/"
-            },
-            {
-              "name": "Chain Radar",
-              "type": "url",
-              "url": "https://chainradar.com/xmr/blocks"
             }
           ],
           "name": "Monero",
@@ -5542,7 +5522,13 @@
     {
       "children": [
         {
-          "children": [],
+          "children": [
+            {
+              "name": "base64decode",
+              "type": "url",
+              "url": "https://www.base64decode.org/"
+            }
+          ],
           "name": "Base64",
           "type": "folder"
         },
@@ -5722,11 +5708,6 @@
               "url": "https://ifttt.com/"
             },
             {
-              "name": "Stringify",
-              "type": "url",
-              "url": "https://www.stringify.com/"
-            },
-            {
               "name": "Intrigue.io (T)",
               "type": "url",
               "url": "https://intrigue.io/"
@@ -5776,6 +5757,11 @@
               "name": "Low Hanging Fruit (T)",
               "type": "url",
               "url": "https://github.com/blindfuzzy/LHF"
+            },
+            {
+              "name": "Nrich (T)",
+              "type": "url",
+              "url": "https://gitlab.com/shodan-public/nrich"
             }
           ],
           "name": "Pentesting Recon",
@@ -5879,11 +5865,6 @@
               "name": "ID Ransomware",
               "type": "url",
               "url": "https://id-ransomware.malwarehunterteam.com/"
-            },
-            {
-              "name": "National Software Reference Library",
-              "type": "url",
-              "url": "http://nsrl.hashsets.com/national_software_reference_library1_search.php"
             }
           ],
           "name": "Search",
@@ -5893,11 +5874,6 @@
           "children": [
             {
               "children": [
-                {
-                  "name": "XecScan",
-                  "type": "url",
-                  "url": "http://scan.xecure-lab.com/"
-                },
                 {
                   "name": "JoeSandbox Document Analyzer",
                   "type": "url",
@@ -5910,11 +5886,6 @@
             {
               "children": [
                 {
-                  "name": "Wepawet",
-                  "type": "url",
-                  "url": "https://wepawet.iseclab.org/"
-                },
-                {
                   "name": "ViCheck",
                   "type": "url",
                   "url": "https://www.vicheck.ca/"
@@ -5925,11 +5896,6 @@
             },
             {
               "children": [
-                {
-                  "name": "Akana Android Malware",
-                  "type": "url",
-                  "url": "http://akana.mobiseclab.org/"
-                },
                 {
                   "name": "Joe APK Analyzer",
                   "type": "url",
@@ -5945,19 +5911,9 @@
               "url": "https://www.virustotal.com/"
             },
             {
-              "name": "Malwr",
-              "type": "url",
-              "url": "https://malwr.com/"
-            },
-            {
               "name": "Hybrid Analysis",
               "type": "url",
               "url": "https://www.hybrid-analysis.com/"
-            },
-            {
-              "name": "MalwareViz",
-              "type": "url",
-              "url": "https://www.malwareviz.com/"
             },
             {
               "name": "Ether",
@@ -5965,29 +5921,14 @@
               "url": "http://ether.gtisc.gatech.edu/web_unpack"
             },
             {
-              "name": "Eureka",
-              "type": "url",
-              "url": "http://eureka.cyber-ta.org/"
-            },
-            {
               "name": "Blueliv Sandbox",
               "type": "url",
               "url": "https://community.blueliv.com/#!/sandbox"
             },
             {
-              "name": "Valkyrie File Analysis",
-              "type": "url",
-              "url": "https://consumer.valkyrie.comodo.com/"
-            },
-            {
               "name": "Deepviz Sandbox",
               "type": "url",
               "url": "https://sandbox.deepviz.com/"
-            },
-            {
-              "name": "detux Linux Sandbox",
-              "type": "url",
-              "url": "https://detux.org/"
             },
             {
               "name": "Joe File Analyzer",
@@ -6000,19 +5941,9 @@
               "url": "http://sandbox.pikker.ee/"
             },
             {
-              "name": "ThreatExpert Sandbox",
-              "type": "url",
-              "url": "http://www.threatexpert.com/submit.aspx"
-            },
-            {
               "name": "Koodous",
               "type": "url",
               "url": "https://koodous.com"
-            },
-            {
-              "name": "Anlyz.io",
-              "type": "url",
-              "url": "https://sandbox.anlyz.io"
             },
             {
               "name": "Any Run",
@@ -6100,11 +6031,6 @@
               "url": "http://www.fortypoundhead.com/tools_dpw.asp"
             },
             {
-              "name": "Phenoelit Default Password List",
-              "type": "url",
-              "url": "http://phenoelit.org/dpl/dpl.html"
-            },
-            {
               "name": "Default Router Passwords",
               "type": "url",
               "url": "http://routerpasswords.com/"
@@ -6113,11 +6039,6 @@
               "name": "Open Sez Me Default Passwords",
               "type": "url",
               "url": "http://open-sez.me/"
-            },
-            {
-              "name": "Hashes.org",
-              "type": "url",
-              "url": "https://hashes.org/"
             }
           ],
           "name": "Default Passwords",
@@ -6147,11 +6068,6 @@
           "name": "NVD - NIST",
           "type": "url",
           "url": "https://nvd.nist.gov/"
-        },
-        {
-          "name": "OSVDB: Open Sourced Vulnerability Database",
-          "type": "url",
-          "url": "http://osvdb.org/"
         },
         {
           "name": "CVE Details",
@@ -6254,11 +6170,6 @@
         {
           "children": [
             {
-              "name": "Malware Exploit TTP Database",
-              "type": "url",
-              "url": "https://www.pwnmalw.re/"
-            },
-            {
               "name": "Mitre TTPs",
               "type": "url",
               "url": "https://attack.mitre.org/wiki/All_Techniques"
@@ -6288,11 +6199,6 @@
           "url": "http://www.projecthoneypot.org/"
         },
         {
-          "name": "Cymon Open Threat Intelligence",
-          "type": "url",
-          "url": "https://cymon.io/"
-        },
-        {
           "name": "mlsecproject / combine",
           "type": "url",
           "url": "https://github.com/mlsecproject/combine"
@@ -6301,11 +6207,6 @@
           "name": "hostintel - keithjjones Github",
           "type": "url",
           "url": "https://github.com/keithjjones/hostintel"
-        },
-        {
-          "name": "massive-octo-spice - csirtgadgets Github",
-          "type": "url",
-          "url": "https://github.com/csirtgadgets/massive-octo-spice"
         },
         {
           "name": "Bot Scout",
@@ -6321,11 +6222,6 @@
           "name": "APTnotes",
           "type": "url",
           "url": "https://github.com/aptnotes/data"
-        },
-        {
-          "name": "HoneyDB",
-          "type": "url",
-          "url": "https://riskdiscovery.com/honeydb/"
         },
         {
           "name": "Pulsedive",
@@ -6361,11 +6257,6 @@
               "url": "https://randomuser.me/"
             },
             {
-              "name": "Pexels",
-              "type": "url",
-              "url": "https://www.pexels.com/"
-            },
-            {
               "name": "Fakerjs (T)",
               "type": "url",
               "url": "https://github.com/faker-js/faker"
@@ -6395,22 +6286,6 @@
             {
               "children": [
                 {
-                  "name": "DeepDotWeb VPN Comparison Chart",
-                  "type": "url",
-                  "url": "https://www.deepdotweb.com/vpn-comparison-chart/"
-                },
-                {
-                  "name": "VPN Comparisons - That One Privacy Site",
-                  "type": "url",
-                  "url": "https://thatoneprivacysite.net/"
-                }
-              ],
-              "name": "Anonymous VPNs",
-              "type": "folder"
-            },
-            {
-              "children": [
-                {
                   "name": "UserAgentString.com",
                   "type": "url",
                   "url": "http://www.useragentstring.com/pages/useragentstring.php"
@@ -6435,11 +6310,6 @@
                   "name": "IP / DNS Leak Detection",
                   "type": "url",
                   "url": "https://ipleak.net/"
-                },
-                {
-                  "name": "JonDonym",
-                  "type": "url",
-                  "url": "http://ip-check.info/?lang=en"
                 },
                 {
                   "name": "DNS leak test",
@@ -6477,11 +6347,6 @@
                   "url": "https://www.perfect-privacy.com/webrtc-leaktest/"
                 },
                 {
-                  "name": "LetMeCheck.it",
-                  "type": "url",
-                  "url": "http://letmecheck.it/"
-                },
-                {
                   "name": "Trace My IP",
                   "type": "url",
                   "url": "http://www.tracemyip.org/"
@@ -6506,11 +6371,6 @@
                   "name": "What browser am I using.co",
                   "type": "url",
                   "url": "http://www.whatbrowseramiusing.co/"
-                },
-                {
-                  "name": "What Browser?",
-                  "type": "url",
-                  "url": "https://whatbrowser.org/"
                 },
                 {
                   "name": "BrowserSpy.dk Browser Information",
@@ -6558,11 +6418,6 @@
               "url": "https://browserleaks.com/"
             },
             {
-              "name": "Self-Destructing Cookies (T)",
-              "type": "url",
-              "url": "https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/"
-            },
-            {
               "name": "BrowserSpy.dk",
               "type": "url",
               "url": "http://browserspy.dk/"
@@ -6594,21 +6449,6 @@
               "url": "https://www.safeshepherd.com/handbook"
             },
             {
-              "name": "OptOut Credit Prescreen",
-              "type": "url",
-              "url": "https://www.optoutprescreen.com/?rf=t"
-            },
-            {
-              "name": "Credit Freeze",
-              "type": "url",
-              "url": "https://inteltechniques.com/blog/2018/09/28/complete-credit-freeze-tutorial-update/"
-            },
-            {
-              "name": "Fake US Identities",
-              "type": "url",
-              "url": "http://xdd2.org/"
-            },
-            {
               "name": "Social Media Fingerprint",
               "type": "url",
               "url": "https://robinlinus.github.io/socialmedia-leak/"
@@ -6627,11 +6467,6 @@
               "name": "Intel Techniques - Hiding from the Internet",
               "type": "url",
               "url": "https://inteltechniques.com/data/workbook.pdf"
-            },
-            {
-              "name": "The Many Hats Club - Privacy Resources",
-              "type": "url",
-              "url": "https://themanyhats.club/centralised-place-for-privacy-resources/"
             }
           ],
           "name": "Privacy / Clean Up",
@@ -6660,11 +6495,6 @@
               "name": "Hunchly (T)",
               "type": "url",
               "url": "http://www.hunch.ly/"
-            },
-            {
-              "name": "Fiddler (T)",
-              "type": "url",
-              "url": "https://www.telerik.com/download/fiddler"
             },
             {
               "name": "Burp Suite (T)",
@@ -6711,11 +6541,6 @@
               "name": "ShareX (T)",
               "type": "url",
               "url": "https://getsharex.com/"
-            },
-            {
-              "name": "Greenshot (T)",
-              "type": "url",
-              "url": "https://getgreenshot.org/"
             }
           ],
           "name": "Screen Capture",
@@ -6732,16 +6557,6 @@
               "name": "Google Street View - Hyperlapse",
               "type": "url",
               "url": "https://github.com/TeehanLax/Hyperlapse.js"
-            },
-            {
-              "name": "Teehan+Lax Labs - Hyperlapse",
-              "type": "url",
-              "url": "http://labs.teehanlax.com/project/hyperlapse"
-            },
-            {
-              "name": "Google Maps Streetview Player",
-              "type": "url",
-              "url": "http://brianfolts.com/driver/"
             },
             {
               "name": "ZeeMaps",
@@ -6793,16 +6608,6 @@
           "name": "Open Source Intelligence Techniques",
           "type": "url",
           "url": "https://inteltechniques.com/"
-        },
-        {
-          "name": "Plessas",
-          "type": "url",
-          "url": "https://plessas.net/online-training"
-        },
-        {
-          "name": "SANS SEC487 OSINT Class",
-          "type": "url",
-          "url": "https://www.sans.org/sec487"
         },
         {
           "name": "Smart Questions",
