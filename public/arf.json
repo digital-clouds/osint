@@ -61,11 +61,6 @@
               "url": "https://www.google.com/search?q=site:amazon.com+%3Cusername%3E"
             },
             {
-              "name": "Amazon Wishlists",
-              "type": "url",
-              "url": "https://www.amazon.com/gp/registry/search.html/?ie=UTF8&type=wishlist"
-            },
-            {
               "name": "Github User (M)",
               "type": "url",
               "url": "https://api.github.com/users/%3Cusername%3E/events/public"
@@ -246,9 +241,9 @@
               "url": "https://intelx.io/"
             },
             {
-              "name": "Vigilante.pw",
+              "name": "Dehashed",
               "type": "url",
-              "url": "https://www.vigilante.pw/"
+              "url": "https://dehashed.com/"
             },
             {
               "name": "Breach or Clear",
@@ -294,11 +289,6 @@
       "children": [
         {
           "children": [
-            {
-              "name": "DNStable",
-              "type": "url",
-              "url": "https://dnstable.com/"
-            },
             {
               "name": "Domain Dossier",
               "type": "url",
@@ -401,11 +391,6 @@
               "url": "https://github.com/michenriksen/aquatone"
             },
             {
-              "name": "FindSubDomains",
-              "type": "url",
-              "url": "https://findsubdomains.com/"
-            },
-            {
               "name": "Google Subdomains (D)",
               "type": "url",
               "url": "https://www.google.com/?gws_rd=ssl#q=site:%3Cdomain.com%3E"
@@ -469,11 +454,6 @@
               "name": "assetnote (T)",
               "type": "url",
               "url": "https://github.com/infosec-au/assetnote"
-            },
-            {
-              "name": "Network Intelligence",
-              "type": "url",
-              "url": "http://netintel.net/"
             },
             {
               "name": "Sublist3r",
@@ -541,11 +521,6 @@
               "name": "Google's Certificate Transparency",
               "type": "url",
               "url": "https://www.certificate-transparency.org/known-logs"
-            },
-            {
-              "name": "Spyse",
-              "type": "url",
-              "url": "https://spyse.com/search/certificate"
             },
             {
               "name": "Censys",
@@ -618,11 +593,6 @@
               "name": "URL Void",
               "type": "url",
               "url": "http://www.urlvoid.com/"
-            },
-            {
-              "name": "Threat Crowd",
-              "type": "url",
-              "url": "https://www.threatcrowd.org/"
             },
             {
               "name": "FortiGuard Reputation Service",
@@ -808,11 +778,6 @@
               "url": "https://www.semrush.com/"
             },
             {
-              "name": "TopGainers",
-              "type": "url",
-              "url": "https://topgainers.net/"
-            },
-            {
               "name": "Moonsearch",
               "type": "url",
               "url": "http://moonsearch.com/"
@@ -949,11 +914,6 @@
               "url": "http://checkshorturl.com/"
             },
             {
-              "name": "Lengthen Me",
-              "type": "url",
-              "url": "https://lengthen.me/"
-            },
-            {
               "name": "URL Expander",
               "type": "url",
               "url": "http://urlex.org/"
@@ -1019,11 +979,6 @@
               "name": "Google Trends",
               "type": "url",
               "url": "https://www.google.com/trends/"
-            },
-            {
-              "name": "Reddit (M)",
-              "type": "url",
-              "url": "https://www.reddit.com/domain/%3CURLhere%3E"
             }
           ],
           "name": "Social Analysis",
@@ -1081,11 +1036,6 @@
             },
             {
               "children": [
-                {
-                  "name": "XSSposed.org",
-                  "type": "url",
-                  "url": "https://www.xssposed.org/"
-                },
                 {
                   "name": "Zone-H.org",
                   "type": "url",
@@ -1215,11 +1165,6 @@
         {
           "children": [
             {
-              "name": "Spyse",
-              "type": "url",
-              "url": "https://spyse.com/search/ip"
-            },
-            {
               "name": "Shodan",
               "type": "url",
               "url": "https://www.shodan.io/"
@@ -1265,11 +1210,6 @@
         },
         {
           "children": [
-            {
-              "name": "ASlookup.com",
-              "type": "url",
-              "url": "https://aslookup.com/"
-            },
             {
               "name": "Onyphe",
               "type": "url",
@@ -1993,11 +1933,6 @@
                       "url": "https://www.google.com/search?q=site:s3.amazonaws.com+%3Csearchterm%3E"
                     },
                     {
-                      "name": "OneDrive (D)",
-                      "type": "url",
-                      "url": "https://www.google.com/search?safe=off&q=site:onedrive.live.com+%3Csearchterm%3E"
-                    },
-                    {
                       "name": "Cryptome (D)",
                       "type": "url",
                       "url": "https://www.google.com/search?q=site:cryptome.org+%3Csearchterm%3E"
@@ -2015,11 +1950,6 @@
                   "name": "DocJax",
                   "type": "url",
                   "url": "http://www.docjax.com/"
-                },
-                {
-                  "name": "WikiLeaks Search",
-                  "type": "url",
-                  "url": "https://search.wikileaks.org/advanced"
                 },
                 {
                   "name": "RECAP Court Doc Repo",
@@ -2111,11 +2041,6 @@
           "children": [
             {
               "children": [
-                {
-                  "name": "Find my Facebook ID",
-                  "type": "url",
-                  "url": "http://findmyfbid.com/"
-                },
                 {
                   "name": "FB Email Search",
                   "type": "url",
@@ -2224,11 +2149,6 @@
                   "name": "Twitter Name Search",
                   "type": "url",
                   "url": "https://twitter.com/#!/who_to_follow"
-                },
-                {
-                  "name": "Twitter User Directory",
-                  "type": "url",
-                  "url": "https://twitter.com/i/directory/profiles/"
                 },
                 {
                   "name": "Twitter Search for Live Streaming Video",
@@ -2731,19 +2651,14 @@
               "url": "http://snoopstation.com/index.html"
             },
             {
-              "name": "Melissa Data - People Finder (R)",
+              "name": " Melissa Lookups",
               "type": "url",
-              "url": "http://www.melissadata.com/lookups/peoplefinder.asp"
+              "url": "https://www.melissa.com/v2/lookups/"
             },
             {
               "name": "Advanced Background Checks",
               "type": "url",
               "url": "https://www.advancedbackgroundchecks.com/"
-            },
-            {
-              "name": "SalesMaple Contact Search",
-              "type": "url",
-              "url": "https://www.salesmaple.com/contacts/#!/"
             },
             {
               "name": "PeekYou",
@@ -2886,9 +2801,14 @@
               "url": "https://cubib.com/"
             },
             {
-              "name": "True People Search",
+              "name": "TruePeopleSearch.com",
               "type": "url",
               "url": "https://www.truepeoplesearch.com/"
+            },
+            {
+              "name": "TruePeopleSearch.io",
+              "type": "url",
+              "url": "https://truepeoplesearch.io/"
             },
             {
               "name": "Fast People Search",
@@ -3151,11 +3071,6 @@
           "url": "http://www.calleridservice.com/"
         },
         {
-          "name": "Next Caller (R)",
-          "type": "url",
-          "url": "https://nextcaller.com/"
-        },
-        {
           "name": "Data24-7 (R)",
           "type": "url",
           "url": "https://www.data24-7.com/signup.php"
@@ -3184,11 +3099,6 @@
           "name": "Numspy",
           "type": "python3 Module",
           "url": "https://bhattsameer.github.io/numspy"
-        },
-        {
-          "name": "Numspy-Api",
-          "type": "url",
-          "url": "https://numspy.pythonanywhere.com/"
         }
       ],
       "name": "Telephone Numbers",
@@ -3248,11 +3158,6 @@
               "name": "Canadian Legal Information Institute",
               "type": "url",
               "url": "http://www.canlii.org/en/"
-            },
-            {
-              "name": "Most Wanted Criminal Pages",
-              "type": "url",
-              "url": "http://ancestorhunt.com/most-wanted-criminals-and-fugitives.htm"
             },
             {
               "name": "Black Book Online - Criminal Search",
@@ -3453,11 +3358,6 @@
               "url": "http://www.politicalmoneyline.com/"
             },
             {
-              "name": "MelissaData - Campaign Contributions",
-              "type": "url",
-              "url": "http://www.melissadata.com/lookups/fec.asp"
-            },
-            {
               "name": "Influence Explorer",
               "type": "url",
               "url": "http://data.influenceexplorer.com/#"
@@ -3470,7 +3370,7 @@
             {
               "name": "Every Politician",
               "type": "url",
-              "url": "http://everypolitician.org/"
+              "url": "https://everypolitician.org/"
             }
           ],
           "name": "Political Records",
@@ -3479,12 +3379,12 @@
         {
           "name": "Public Records?",
           "type": "url",
-          "url": "http://publicrecords.searchsystems.net/"
+          "url": "https://publicrecords.searchsystems.net/"
         },
         {
           "name": "Enigma",
           "type": "url",
-          "url": "http://enigma.io/publicdata/"
+          "url": "https://enigma.com/our-data/"
         },
         {
           "name": "The World Bank Open Data Catalog",
@@ -3841,11 +3741,6 @@
               "url": "http://tracker.geops.ch/"
             },
             {
-              "name": "Vehicle Specifications Lookup",
-              "type": "url",
-              "url": "https://berla.co/products/ive/vehicle-lookup/"
-            },
-            {
               "name": "License Plate Search",
               "type": "url",
               "url": "https://www.vehiclehistory.com/licence-plate-search/licence-plate.php"
@@ -3896,11 +3791,6 @@
               "name": "Ship AIS",
               "type": "url",
               "url": "http://www.shipais.com/"
-            },
-            {
-              "name": "Shodan Ship Tracker",
-              "type": "url",
-              "url": "https://shiptracker.shodan.io/"
             },
             {
               "name": "OpenSeaMap - The free nautical chart",
@@ -4158,11 +4048,6 @@
           "url": "https://landsatlook.usgs.gov/"
         },
         {
-          "name": "Sentinel2Look Viewer",
-          "type": "url",
-          "url": "https://landsatlook.usgs.gov/sentinel2/"
-        },
-        {
           "name": "NEXRAD Data Inventory Search",
           "type": "url",
           "url": "https://www.ncdc.noaa.gov/nexradinv/"
@@ -4312,11 +4197,6 @@
               "url": "https://www.etools.ch/"
             },
             {
-              "name": "searx.me",
-              "type": "url",
-              "url": "https://searx.me/"
-            },
-            {
               "name": "Addictomatic",
               "type": "url",
               "url": "http://addictomatic.com/"
@@ -4391,7 +4271,7 @@
             {
               "name": "Napalm FTP",
               "type": "url",
-              "url": "http://www.searchftps.net/"
+              "url": "https://www.searchftps.net/"
             },
             {
               "name": "FileMare",
@@ -4606,11 +4486,6 @@
         },
         {
           "children": [
-            {
-              "name": "Yobi3D - 3D Model Search",
-              "type": "url",
-              "url": "https://www.yobi3d.com/#!/"
-            },
             {
               "name": "Colossus International Engine List",
               "type": "url",
@@ -4952,11 +4827,6 @@
               "url": "http://translate.reference.com/"
             },
             {
-              "name": "Free Translation",
-              "type": "url",
-              "url": "https://www.freetranslation.com/"
-            },
-            {
               "name": "Free Online Translation",
               "type": "url",
               "url": "http://www.worldlingo.com/en/products_services/worldlingo_translator.html"
@@ -5070,6 +4940,11 @@
                 {
                   "children": [
                     {
+                      "name": "[matrix] secure, decentralized communication (T)",
+                      "type": "url",
+                      "url": "https://www.matrix.org/"
+                    },
+                    {
                       "name": "Signal Private Messenger (T)",
                       "type": "url",
                       "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"
@@ -5085,29 +4960,9 @@
                       "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger"
                     },
                     {
-                      "name": "Snapchat (T)",
-                      "type": "url",
-                      "url": "https://play.google.com/store/apps/details?id=com.snapchat.android"
-                    },
-                    {
-                      "name": "WhatsApp Messenger (T)",
-                      "type": "url",
-                      "url": "https://play.google.com/store/apps/details?id=com.whatsapp"
-                    },
-                    {
                       "name": "Kik (T)",
                       "type": "url",
                       "url": "https://play.google.com/store/apps/details?id=kik.android"
-                    },
-                    {
-                      "name": "Yik Yak (T)",
-                      "type": "url",
-                      "url": "https://play.google.com/store/apps/details?id=com.yik.yak"
-                    },
-                    {
-                      "name": "LINE (T)",
-                      "type": "url",
-                      "url": "https://play.google.com/store/apps/details?id=jp.naver.line.android"
                     }
                   ],
                   "name": "Instant Messaging",
@@ -5261,9 +5116,9 @@
         {
           "children": [
             {
-              "name": "Onion Cab",
+              "name": "Tor2web and tor proxies public list",
               "type": "url",
-              "url": "https://onion.cab/"
+              "url": "https://gist.github.com/ss-o/5a32e8cc6b9286730cdafce98b4863bb#file-tor2web-md/"
             },
             {
               "name": "OnionLink",
@@ -5323,7 +5178,7 @@
         {
           "name": "Tor2web",
           "type": "url",
-          "url": "https://tor2web.org/"
+          "url": "https://www.tor2web.org"
         },
         {
           "name": "Web O Proxy",
@@ -5554,11 +5409,6 @@
               "name": "Kahu Revelo (T)",
               "type": "url",
               "url": "http://www.kahusecurity.com/tools/"
-            },
-            {
-              "name": "JavaScript Deobfuscator (T)",
-              "type": "url",
-              "url": "https://addons.mozilla.org/en-US/firefox/addon/javascript-deobfuscator/"
             }
           ],
           "name": "Javascript",
@@ -5629,7 +5479,7 @@
                 {
                   "name": "Balbuzard (T)",
                   "type": "url",
-                  "url": "https://bitbucket.org/decalage/balbuzard"
+                  "url": "https://github.com/decalage2/balbuzard"
                 }
               ],
               "name": "Python",
@@ -5923,7 +5773,7 @@
             {
               "name": "Pikker.ee Cuckoo Sandbox",
               "type": "url",
-              "url": "http://sandbox.pikker.ee/"
+              "url": "https://sandbox.pikker.ee/"
             },
             {
               "name": "Koodous",

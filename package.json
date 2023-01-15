@@ -1,37 +1,24 @@
 {
-  "name": "osint-rf",
+  "name": "osint-framework",
   "version": "1.0.0",
   "description": "Open Source Intelligence - Reconnaissance Framework",
   "main": "public/index.html",
   "scripts": {
-    "format:check": "prettier --check '**/*.{js,css,json,md}'",
-    "format:write": "prettier --write '**/*.{js,css,json,md}'",
-    "format:diff": "prettier --list-different .",
-    "postinstall": "copyfiles -f ./node_modules/d3/d3.min.js ./public/js/vendor/d3",
-    "start": "node_modules/http-server/bin/http-server public -i -g -b"
+    "clean": "pnpm exec rm -rf node_modules build pnpm-lock.yaml",
+    "preinstall": "npx only-allow pnpm",
+    "upgrade": "pnpm upgrade -i -L",
+    "postinstall": "pnpm audit && copyfiles -f ./node_modules/d3/d3.min.js ./public/js/vendor/d3",
+    "fmt": "trunk fmt",
+    "dev": "wrangler dev --assets public/ --latest",
+    "check": "trunk check"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/digital-clouds/osint.git"
-  },
-  "bugs": {
-    "url": "https://github.com/digital-clouds/osint/issues"
-  },
-  "homepage": "https://github.com/digital-clouds/osint#readme",
-  "devDependencies": {
+  "dependencies": {
     "copyfiles": "2.4.1",
-    "d3": "7.8.1",
-    "http-server": "14.1.1",
-    "prettier": "2.8.3"
+    "d3": "7.8.1"
   },
-  "license": "MIT",
-  "packageManager": "yarn@3.3.1",
-  "resolutions": {
-    "minimist": ">=1.2.5",
-    "axios": ">=0.21.2",
-    "nth-check": ">=2.0.1",
-    "trim": ">=0.0.3",
-    "async": ">=2.6.4",
-    "d3-color": ">=3.1.0"
-  }
+  "devDependencies": {
+    "@trunkio/launcher": "1.2.3",
+    "wrangler": "^2.7.1"
+  },
+  "license": "MIT"
 }
