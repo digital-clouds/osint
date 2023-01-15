@@ -1,4 +1,5 @@
-name: Links
+---
+name: "✅ Lynchee"
 
 on:
   repository_dispatch:
@@ -17,23 +18,21 @@ jobs:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
+
       - name: Lychee Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v1.5.4
         with:
-          args: "--cache --max-cache-age 1d --insecure"
-          # Use json as output format (instead of markdown)
+          args: "--cache --max-cache-age 1d --insecure './public/arf.json'"
           format: markdown
-          # Use different output file path
-          output: /docs/LINKS_REPORT.md
-          # Fail action on broken links
+          output: ./docs/LINKS_REPORT.md
           fail: false
         env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: Link Checker Report
-          content-filepath: ./lychee/out.md
+          content-filepath: ./docs/LINKS_REPORT.md
           labels: report, automated issue
