@@ -4879,11 +4879,6 @@
               "url": "http://vis-www.cs.umass.edu/lfw/"
             },
             {
-              "name": "Large-scale Scene Understanding Challenge",
-              "type": "url",
-              "url": "http://lsun.cs.princeton.edu/2016/"
-            },
-            {
               "name": "VisualGenome",
               "type": "url",
               "url": "http://visualgenome.org/"
