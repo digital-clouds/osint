@@ -4,12 +4,17 @@ name: "✅ Lychee"
 on:
   repository_dispatch:
   workflow_dispatch:
+  workflow_call:
   schedule:
     - cron: "00 18 * * *"
   push:
     branches: [main]
     paths:
-      - "./public/*"
+      - "public/**"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   linkChecker:
