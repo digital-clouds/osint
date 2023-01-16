@@ -3,6 +3,13 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/digital-clouds/osint/main/docs/images/osint-framework.png" alt="osint-framework" />
 </div>
+<hr />
+<p align="center">
+  <a href="https://github.com/digital-clouds/osint/actions/workflows/lychee.yml">
+    <img src="https://github.com/digital-clouds/osint/actions/workflows/lychee.yml/badge.svg" alt="Lychee Check Links" />
+  </a>
+</p>
+
 
 ## Development
 
