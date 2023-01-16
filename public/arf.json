@@ -133,9 +133,9 @@
               "url": "https://github.com/m4ll0k/infoga"
             },
             {
-              "name": "MailDB",
+              "name": "Omail verifier",
               "type": "url",
-              "url": "https://maildb.io/"
+              "url": "https://omail.io/verifier.html"
             },
             {
               "name": "Skymem",
@@ -830,7 +830,7 @@
             {
               "name": "Sitedossier",
               "type": "url",
-              "url": "https://www.sitedossier.com/"
+              "url": "http://www.sitedossier.com/"
             },
             {
               "name": "Visual Site Mapper",
@@ -1040,11 +1040,6 @@
               "name": "Burp Suite (T)",
               "type": "url",
               "url": "https://portswigger.net/burp/"
-            },
-            {
-              "name": "BlackWidow (T)",
-              "type": "url",
-              "url": "https://softbytelabs.com/en/BlackWidow/"
             },
             {
               "name": "IntelliTamper (T)",
@@ -1321,11 +1316,6 @@
               "url": "https://www.bing.com/search?q=ip%3A8.8.8.8"
             },
             {
-              "name": "TCP/IP Utils - Domain Neighbors",
-              "type": "url",
-              "url": "https://www.tcpiputils.com/domain-neighbors"
-            },
-            {
               "name": "MyIPNeighbors",
               "type": "url",
               "url": "https://www.my-ip-neighbors.com/"
@@ -1550,37 +1540,6 @@
             {
               "children": [
                 {
-                  "name": "Webstigram",
-                  "type": "url",
-                  "url": "https://websta.me/search"
-                },
-                {
-                  "name": "Instagram",
-                  "type": "url",
-                  "url": "https://www.instagram.com/"
-                },
-                {
-                  "name": "Mini Instagram",
-                  "type": "url",
-                  "url": "https://mininsta.net/"
-                },
-                {
-                  "name": "Imgrab",
-                  "type": "url",
-                  "url": "https://imgrab.com/"
-                },
-                {
-                  "name": "Tofo.me",
-                  "type": "url",
-                  "url": "https://tofo.me/"
-                }
-              ],
-              "name": "Instagram",
-              "type": "folder"
-            },
-            {
-              "children": [
-                {
                   "name": "Flickr",
                   "type": "url",
                   "url": "https://www.flickr.com/"
@@ -1627,11 +1586,6 @@
                   "url": "https://www.exifviewer.org/"
                 },
                 {
-                  "name": "Search by Exif",
-                  "type": "url",
-                  "url": "https://www.exif-search.com/"
-                },
-                {
                   "name": "ImgOps",
                   "type": "url",
                   "url": "https://imgops.com/"
@@ -1671,16 +1625,6 @@
                   "name": "Ghiro (T)",
                   "type": "url",
                   "url": "https://github.com/ghirensics/ghiro"
-                },
-                {
-                  "name": "Stolen Camera Finder",
-                  "type": "url",
-                  "url": "https://www.stolencamerafinder.co.uk/"
-                },
-                {
-                  "name": "Camera Trace",
-                  "type": "url",
-                  "url": "https://www.cameratrace.com/trace"
                 }
               ],
               "name": "Forensics",
@@ -2131,11 +2075,6 @@
                   "url": "https://www.twellow.com/splash/"
                 },
                 {
-                  "name": "First Tweet",
-                  "type": "url",
-                  "url": "https://ctrlq.org/first/"
-                },
-                {
                   "name": "TweetReach",
                   "type": "url",
                   "url": "https://tweetreach.com/"
@@ -2240,11 +2179,6 @@
                       "url": "https://foller.me/"
                     },
                     {
-                      "name": "MentionMapp",
-                      "type": "url",
-                      "url": "https://mentionmapp.com/"
-                    },
-                    {
                       "name": "SleepingTime",
                       "type": "url",
                       "url": "https://sleepingtime.org/"
@@ -2346,9 +2280,9 @@
                   "url": "https://app.echosec.net/"
                 },
                 {
-                  "name": "MIT Map",
+                  "name": "TweetMap",
                   "type": "url",
-                  "url": "https://mapd.csail.mit.edu/tweetmap/"
+                  "url": "https://www.heavy.ai/demos/tweetmap"
                 },
                 {
                   "name": "Harvard Map",
@@ -2437,19 +2371,9 @@
               "url": "https://www.redditarchive.com/"
             },
             {
-              "name": "reddit metrics",
-              "type": "url",
-              "url": "https://redditmetrics.com/"
-            },
-            {
               "name": "subreddits",
               "type": "url",
               "url": "https://subreddits.org/"
-            },
-            {
-              "name": "Reddit Investigator",
-              "type": "url",
-              "url": "https://www.redditinvestigator.com/"
             },
             {
               "name": "Reddit Comment History",
@@ -2531,11 +2455,6 @@
           ],
           "name": "Search",
           "type": "folder"
-        },
-        {
-          "name": "Social Media Monitoring Wiki",
-          "type": "url",
-          "url": "https://wiki.kenburbary.com/social-meda-monitoring-wiki"
         }
       ],
       "name": "Social Networks",
@@ -2603,7 +2522,7 @@
             {
               "name": "Wink People Search",
               "type": "url",
-              "url": "https://itools.com/tool/wink-people-search"
+              "url": "http://itools.com/tool/wink-people-search"
             },
             {
               "name": "Radaris",
@@ -2654,11 +2573,6 @@
               "name": "findmypast.com",
               "type": "url",
               "url": "https://search.findmypast.com/search-world-records"
-            },
-            {
-              "name": "HowManyOfMe",
-              "type": "url",
-              "url": "https://howmanyofme.com/search/"
             },
             {
               "name": "FamilySearch.org",
@@ -2765,11 +2679,6 @@
               "name": "My Registry",
               "type": "url",
               "url": "https://www.myregistry.com/"
-            },
-            {
-              "name": "Amazon Registry Search",
-              "type": "url",
-              "url": "https://www.amazon.com/gp/registry/search"
             },
             {
               "name": "Bed, Bath, & Beyond Gift Registry",
@@ -2919,11 +2828,6 @@
           ],
           "name": "International",
           "type": "folder"
-        },
-        {
-          "name": "Pipl API (M)",
-          "type": "url",
-          "url": "https://api.pipl.com/search/v5/?phone=18887420000&key=sample_key&pretty=true"
         },
         {
           "name": "WhoCalld",
@@ -3268,11 +3172,6 @@
               "url": "https://www.politicalmoneyline.com/"
             },
             {
-              "name": "US Federal Election Commission",
-              "type": "url",
-              "url": "https://www.fec.gov/finance/disclosure/norindsea.shtml"
-            },
-            {
               "name": "Every Politician",
               "type": "url",
               "url": "https://everypolitician.org/"
@@ -3424,7 +3323,7 @@
             {
               "name": "ZoomInfo.com",
               "type": "url",
-              "url": "https://www.zoominfo.com/company-directory/us"
+              "url": "https://www.zoominfo.com/people_directory/professional_profile/A-0-0"
             },
             {
               "name": "Kompass International",
@@ -3551,11 +3450,6 @@
               "name": "Market Visual",
               "type": "url",
               "url": "https://www.marketvisual.com/"
-            },
-            {
-              "name": "Jobster",
-              "type": "url",
-              "url": "https://www.jobster.com/"
             },
             {
               "name": "XING",
@@ -3738,7 +3632,7 @@
             {
               "name": "SunCalc",
               "type": "url",
-              "url": "https://suncalc.net/"
+              "url": "http://suncalc.net/"
             }
           ],
           "name": "Geolocation Tools",
@@ -3898,9 +3792,9 @@
           "url": "https://corona.cast.uark.edu/"
         },
         {
-          "name": "Daum (Korean)",
+          "name": "KakaoMap (Korean)",
           "type": "url",
-          "url": "https://map.daum.net/"
+          "url": "https://map.kakao.com/"
         },
         {
           "name": "Naver (Korean)",
@@ -4024,11 +3918,6 @@
               "name": "Google Advanced Search",
               "type": "url",
               "url": "https://www.google.com/advanced_search"
-            },
-            {
-              "name": "iBoogie",
-              "type": "url",
-              "url": "https://www.iboogie.com/"
             },
             {
               "name": "iZito",
@@ -4379,7 +4268,7 @@
             {
               "name": "SimilarSites",
               "type": "url",
-              "url": "https://www.similarsites.com/browse"
+              "url": "https://www.similarsites.com/"
             },
             {
               "name": "Economics Search Engine",
@@ -5079,9 +4968,9 @@
               "url": "https://www.blocktrail.com/BTC"
             },
             {
-              "name": "Blockchain.info",
+              "name": "Blockchain.com Explorer",
               "type": "url",
-              "url": "https://blockchain.info/"
+              "url": "https://www.blockchain.com/explorer"
             },
             {
               "name": "Block Explorer",
@@ -5273,7 +5162,7 @@
             {
               "name": "SpiderMonkey (T)",
               "type": "url",
-              "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey"
+              "url": "https://spidermonkey.dev/"
             },
             {
               "name": "Kahu Revelo (T)",
@@ -5289,7 +5178,7 @@
             {
               "name": "DDecode - PHP Decoder",
               "type": "url",
-              "url": "https://ddecode.com/phpdecoder/"
+              "url": "http://ddecode.com/phpdecoder/"
             }
           ],
           "name": "PHP",
@@ -5629,11 +5518,6 @@
               "name": "Blueliv Sandbox",
               "type": "url",
               "url": "https://community.blueliv.com/#!/sandbox"
-            },
-            {
-              "name": "Deepviz Sandbox",
-              "type": "url",
-              "url": "https://sandbox.deepviz.com/"
             },
             {
               "name": "Joe File Analyzer",
