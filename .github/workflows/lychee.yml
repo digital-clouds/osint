@@ -8,7 +8,7 @@ on:
     - cron: "00 18 * * *"
   push:
     branches: [main]
-    paths: 
+    paths:
       - ./public/arf.json
 
 jobs:
@@ -22,13 +22,12 @@ jobs:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
-
       - name: Lychee Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v1.5.4
         with:
-          args: "--cache --max-cache-age 1d --config ./lychee.toml --insecure './public/arf.json'"
-          format: json
+          args: "--cache --max-cache-age 1d --insecure --verbose -retry-wait-time 5 ./public/arf.json"
+          format: markdown
           output: ./docs/LINKS_REPORT.md
           fail: false
         env:
