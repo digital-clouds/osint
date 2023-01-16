@@ -26,7 +26,8 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v1.5.4
         with:
-          args: --cache --insecure --verbose './public/arf.json'
+          # --cache --max-cache-age 1d
+          args: "--insecure --verbose -retry-wait-time 5 ./public/arf.json"
           format: markdown
           output: ./docs/LINKS_REPORT.md
           fail: false

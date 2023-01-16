@@ -446,11 +446,6 @@
               "url": "https://github.com/hrbrmstr/gdns"
             },
             {
-              "name": "assetnote (T)",
-              "type": "url",
-              "url": "https://github.com/infosec-au/assetnote"
-            },
-            {
               "name": "Sublist3r",
               "type": "url",
               "url": "https://github.com/aboul3la/Sublist3r"
@@ -1762,11 +1757,6 @@
                   "url": "javascript:(function(){a=ytplayer.config.args.storyboard_spec;if(!a){alert(\"Sorry we cannot process this YouTube video. Could you please try another one\");exit();}b=a.split(\"|\");base=b[0].split(\"$\")[0]+\"2/M\";c=b[3].split(\"%23\");sigh=c[c.length-1];var imgs=\"\";t=ytplayer.config.args.length_seconds;n=Math.ceil(c[2]/(c[3]*c[4]));for(i=0;i<n;i++){imgs+=\"<PICTURE='\"+base+i+\".jpg%3Fsigh=\"+sigh+\"'><br/>\";}var title=ytplayer.config.args.title;msg=\"<body style='background-color:#444;color:#eee;margin:20px%20auto;width:90%;text-align:center'%3E%3Ch2%3ETITLE%3C/h2%3E%3Cdiv%3EIMAGES%3C/div%3E%3Cbr/%3E%3Cem%3E%3Ca%20href='https://labnol.org/?p=28217'%20style='text-decoration:none;color:#fff;font-style:bold'%3EPrinted%20using%20the%20YouTube%20bookmarklet.%3C/a%3E%3C/em%3E%3C/body%3E%22;msg=msg.replace(%22TITLE%22,title).replace(%22IMAGES%22,imgs).replace(/PICTURE/g,%22img%20src%22);var%20labnol=window.open();labnol.document.open();labnol.document.write(msg);labnol.document.close();})();"
                 },
                 {
-                  "name": "Frame by Frame for YouTube (T)",
-                  "type": "url",
-                  "url": "https://chrome.google.com/webstore/detail/frame-by-frame-for-youtub/elkadbdicdciddfkdpmaolomehalghio?hl=en-GB"
-                },
-                {
                   "name": "YouTube Metadata",
                   "type": "url",
                   "url": "https://www.amnestyusa.org/citizenevidence/"
@@ -1881,11 +1871,6 @@
             },
             {
               "children": [
-                {
-                  "name": "Pastebin Trends",
-                  "type": "url",
-                  "url": "https://pastebin.com/trends"
-                },
                 {
                   "name": "Pastebin Alerts",
                   "type": "url",
@@ -2005,25 +1990,9 @@
                   "name": "fb-sleep-stats (T)",
                   "type": "url",
                   "url": "https://github.com/sqren/fb-sleep-stats"
-                },
-                {
-                  "name": "Facebook Scanner",
-                  "type": "url",
-                  "url": "https://stalkscan.com/en/"
                 }
               ],
               "name": "Analytics",
-              "type": "folder"
-            },
-            {
-              "children": [
-                {
-                  "name": "ExtractFace (T)",
-                  "type": "url",
-                  "url": "https://le-tools.com/ExtractFace.html#download"
-                }
-              ],
-              "name": "Archive / Document",
               "type": "folder"
             }
           ],
@@ -2361,11 +2330,6 @@
               "url": "https://snoopsnoo.com/"
             },
             {
-              "name": "metareddit",
-              "type": "url",
-              "url": "https://metareddit.com/"
-            },
-            {
               "name": "Reddit Archive",
               "type": "url",
               "url": "https://www.redditarchive.com/"
@@ -2498,11 +2462,6 @@
               "name": "USSearch.com",
               "type": "url",
               "url": "https://www.ussearch.com/"
-            },
-            {
-              "name": "Snoop Station",
-              "type": "url",
-              "url": "https://snoopstation.com/index.html"
             },
             {
               "name": " Melissa Lookups",
@@ -3341,11 +3300,6 @@
               "url": "https://mintbusinessinfo.com/version-2015129/portal.serv?product=mintportal"
             },
             {
-              "name": "Manta",
-              "type": "url",
-              "url": "https://www.manta.com/business"
-            },
-            {
               "name": "AIHIT",
               "type": "url",
               "url": "https://www.aihitdata.com/"
@@ -3677,11 +3631,6 @@
               "url": "https://github.com/TeehanLax/Hyperlapse.js"
             },
             {
-              "name": "Teehan+Lax Labs - Hyperlapse",
-              "type": "url",
-              "url": "https://labs.teehanlax.com/project/hyperlapse"
-            },
-            {
               "name": "Google Maps Streetview Player",
               "type": "url",
               "url": "https://brianfolts.com/driver/"
@@ -3755,11 +3704,6 @@
           "name": "Historic Aerials",
           "type": "url",
           "url": "https://www.historicaerials.com/?javascript=&"
-        },
-        {
-          "name": "Google Maps Update Alerts",
-          "type": "url",
-          "url": "https://followyourworld.appspot.com/"
         },
         {
           "name": "Google Earth Overlays",
@@ -4297,11 +4241,6 @@
               "url": "https://millionshort.com/"
             },
             {
-              "name": "SearchDiggity (T)",
-              "type": "url",
-              "url": "https://www.bishopfox.com/download/405/"
-            },
-            {
               "name": "Scanner-inurlbr (T)",
               "type": "url",
               "url": "https://github.com/googleinurl/SCANNER-INURLBR"
@@ -4325,11 +4264,6 @@
               "name": "Talkwalker Alerts",
               "type": "url",
               "url": "https://www.talkwalker.com/alerts"
-            },
-            {
-              "name": "Google Correlate",
-              "type": "url",
-              "url": "https://www.google.com/trends/correlate/"
             }
           ],
           "name": "Search Tools",
@@ -4746,27 +4680,6 @@
                     }
                   ],
                   "name": "Pictures",
-                  "type": "folder"
-                },
-                {
-                  "children": [
-                    {
-                      "name": "Periscope (T)",
-                      "type": "url",
-                      "url": "https://play.google.com/store/apps/details?id=tv.periscope.android"
-                    },
-                    {
-                      "name": "Meerkat (T)",
-                      "type": "url",
-                      "url": "https://play.google.com/store/apps/details?id=co.getair.meerkat"
-                    },
-                    {
-                      "name": "Vine (T)",
-                      "type": "url",
-                      "url": "https://play.google.com/store/apps/details?id=co.vine.android"
-                    }
-                  ],
-                  "name": "Streaming Video",
                   "type": "folder"
                 },
                 {
