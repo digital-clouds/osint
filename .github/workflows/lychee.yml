@@ -1,5 +1,5 @@
 ---
-name: "✅ Lynchee"
+name: "✅ Lychee"
 
 on:
   repository_dispatch:
