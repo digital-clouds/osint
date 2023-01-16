@@ -8,7 +8,7 @@ on:
     - cron: "00 18 * * *"
   push:
     branches: [main]
-    paths: [/public/arf.json]
+    paths: [./public/arf.json]
 
 jobs:
   linkChecker:
@@ -38,4 +38,5 @@ jobs:
         with:
           title: Link Checker Report
           content-filepath: ./docs/LINKS_REPORT.md
+          issue-number: 49
           labels: report, automated issue
