@@ -9,7 +9,7 @@ on:
   push:
     branches: [main]
     paths:
-      - ./public/arf.json
+      - "./public/*"
 
 jobs:
   linkChecker:
