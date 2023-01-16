@@ -190,11 +190,6 @@
               "url": "https://verify-email.org/"
             },
             {
-              "name": "Email Validator",
-              "type": "url",
-              "url": "https://e-mailvalidator.com/index.php"
-            },
-            {
               "name": "BytePlant Email Validator",
               "type": "url",
               "url": "https://www.email-validator.net/"
@@ -600,11 +595,6 @@
               "url": "https://global.sitesafety.trendmicro.com/"
             },
             {
-              "name": "WatchGuard ReputationAuthority",
-              "type": "url",
-              "url": "https://www.reputationauthority.org/"
-            },
-            {
               "name": "Sucuri SiteCheck",
               "type": "url",
               "url": "https://sitecheck.sucuri.net/"
@@ -902,11 +892,6 @@
               "name": "Where Does This Link Go?",
               "type": "url",
               "url": "https://wheredoesthislinkgo.com/"
-            },
-            {
-              "name": "KnowURL",
-              "type": "url",
-              "url": "https://www.knowurl.com/"
             }
           ],
           "name": "URL Expanders",
@@ -1079,11 +1064,6 @@
               "url": "https://www.maxmind.com/en/home"
             },
             {
-              "name": "IPv4/IPv6 lists by country code",
-              "type": "url",
-              "url": "https://ipverse.net/"
-            },
-            {
               "name": "IP2Location.com",
               "type": "url",
               "url": "https://www.ip2location.com/demo"
@@ -1107,11 +1087,6 @@
               "name": "Info Sniper",
               "type": "url",
               "url": "https://www.infosniper.net/"
-            },
-            {
-              "name": "utrace",
-              "type": "url",
-              "url": "https://en.utrace.de/"
             },
             {
               "name": "InfobyIP.com",
@@ -1157,7 +1132,7 @@
             {
               "name": "urlscan.io",
               "type": "url",
-              "url": "https://urlscan.io/search/#*"
+              "url": "https://urlscan.io/search/"
             },
             {
               "name": "Scanless",
@@ -1184,11 +1159,6 @@
               "name": "IPv4 CIDR Report",
               "type": "url",
               "url": "https://www.cidr-report.org/as2.0/"
-            },
-            {
-              "name": "Reverse.report",
-              "type": "url",
-              "url": "https://reverse.report/"
             },
             {
               "name": "Team Cymru IP to ASN",
@@ -1893,37 +1863,6 @@
           ],
           "name": "Documents",
           "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "name": "What The Font",
-              "type": "url",
-              "url": "https://www.myfonts.com/WhatTheFont/"
-            },
-            {
-              "name": "Font Squirrel",
-              "type": "url",
-              "url": "https://www.fontsquirrel.com/matcherator"
-            },
-            {
-              "name": "IdentiFont",
-              "type": "url",
-              "url": "https://www.identifont.com/index.html"
-            },
-            {
-              "name": "Font Spring",
-              "type": "url",
-              "url": "https://www.fontspring.com/matcherator"
-            },
-            {
-              "name": "What Font Is",
-              "type": "url",
-              "url": "https://www.whatfontis.com/"
-            }
-          ],
-          "name": "Fonts",
-          "type": "folder"
         }
       ],
       "name": "Images / Videos / Docs",
@@ -2024,11 +1963,6 @@
                   "url": "https://twitter.com/#!/who_to_follow"
                 },
                 {
-                  "name": "Twitter Search for Live Streaming Video",
-                  "type": "url",
-                  "url": "https://twitter.com/search?q=%23periscope%20OR%20%23meerkat"
-                },
-                {
                   "name": "ConWeets",
                   "type": "url",
                   "url": "https://www.conweets.com/"
@@ -2072,11 +2006,6 @@
                   "name": "Twitter Email Test",
                   "type": "url",
                   "url": "https://pdevesian.eu/tet"
-                },
-                {
-                  "name": "Twoogel Search Engine",
-                  "type": "url",
-                  "url": "https://twoogel.com/"
                 },
                 {
                   "name": "Treeverse (T)",
@@ -2274,11 +2203,6 @@
                   "url": "https://tweepsmap.com/"
                 },
                 {
-                  "name": "GeoTweet",
-                  "type": "url",
-                  "url": "https://geotweet.altervista.org/#"
-                },
-                {
                   "name": "MapD Tweetmap",
                   "type": "url",
                   "url": "https://www.mapd.com/demos/tweetmap/"
@@ -2387,11 +2311,6 @@
               "url": "https://www.perisearch.net/"
             },
             {
-              "name": "Periscope with known Username (M)",
-              "type": "url",
-              "url": "https://www.periscope.tv/%3Cusername%3E"
-            },
-            {
               "name": "SocialBlade.com",
               "type": "url",
               "url": "https://socialblade.com/"
@@ -2461,7 +2380,7 @@
             {
               "name": "USSearch.com",
               "type": "url",
-              "url": "https://www.ussearch.com/"
+              "url": "https://www.ussearch.com"
             },
             {
               "name": " Melissa Lookups",
@@ -2502,11 +2421,6 @@
               "name": "InfoSpace",
               "type": "url",
               "url": "https://infospace.com/"
-            },
-            {
-              "name": "Waatp",
-              "type": "url",
-              "url": "https://waatp.com/"
             },
             {
               "name": "Webmii",
@@ -2569,14 +2483,9 @@
               "url": "https://www.mylife.com/"
             },
             {
-              "name": "Ark",
-              "type": "url",
-              "url": "https://ark.com/landing"
-            },
-            {
               "name": "AnyWho",
               "type": "url",
-              "url": "https://www.anywho.com/whitepages"
+              "url": "https://www.anywho.com"
             },
             {
               "name": "Addresses.com",
@@ -2958,11 +2867,6 @@
               "url": "https://www.familywatchdog.us/"
             },
             {
-              "name": "Felon Spy",
-              "type": "url",
-              "url": "https://www.felonspy.com/search.html"
-            },
-            {
               "name": "The Inmate Locator",
               "type": "url",
               "url": "https://www.theinmatelocator.com/"
@@ -3002,11 +2906,6 @@
               "name": "Gov Data Canada",
               "type": "url",
               "url": "https://govdataca.com/"
-            },
-            {
-              "name": "CA Salary DB",
-              "type": "url",
-              "url": "https://www.sacbee.com/news/databases/state-pay/article229468549.html"
             }
           ],
           "name": "Government Records",
@@ -3280,11 +3179,6 @@
               "url": "https://connect.data.com/"
             },
             {
-              "name": "ZoomInfo.com",
-              "type": "url",
-              "url": "https://www.zoominfo.com/people_directory/professional_profile/A-0-0"
-            },
-            {
               "name": "Kompass International",
               "type": "url",
               "url": "https://www.kompass.com/selectcountry/"
@@ -3370,63 +3264,12 @@
               "url": "https://www.companieslist.co.uk/"
             },
             {
-              "name": "UK Data",
-              "type": "url",
-              "url": "https://ukdata.com/"
-            },
-            {
-              "name": "Manta Small Business Directory",
-              "type": "url",
-              "url": "https://manta.com/business"
-            },
-            {
               "name": "Crunchbase",
               "type": "url",
               "url": "https://www.crunchbase.com/#/home/index"
             }
           ],
           "name": "Company Profiles",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "name": "RecruitEm",
-              "type": "url",
-              "url": "https://recruitin.net/"
-            },
-            {
-              "name": "LinkedIn",
-              "type": "url",
-              "url": "https://www.linkedin.com/"
-            },
-            {
-              "name": "Market Visual",
-              "type": "url",
-              "url": "https://www.marketvisual.com/"
-            },
-            {
-              "name": "XING",
-              "type": "url",
-              "url": "https://www.xing.com/"
-            },
-            {
-              "name": "Indeed",
-              "type": "url",
-              "url": "https://www.indeed.com/"
-            },
-            {
-              "name": "CVGadget",
-              "type": "url",
-              "url": "https://www.cvgadget.com/"
-            },
-            {
-              "name": "LeadFerret.com",
-              "type": "url",
-              "url": "https://leadferret.com/search"
-            }
-          ],
-          "name": "Employee Profiles & Resumes",
           "type": "folder"
         },
         {
@@ -3564,11 +3407,6 @@
           ],
           "name": "Railway Records",
           "type": "folder"
-        },
-        {
-          "name": "Satellite Tracking",
-          "type": "url",
-          "url": "https://www.n2yo.com/"
         },
         {
           "name": "Track-Trace",
@@ -3714,11 +3552,6 @@
           "name": "Yandex.Maps",
           "type": "url",
           "url": "https://yandex.com/maps/"
-        },
-        {
-          "name": "TerraServer",
-          "type": "url",
-          "url": "https://www.terraserver.com/view"
         },
         {
           "name": "Google Earth",
@@ -3928,11 +3761,6 @@
               "name": "Addictomatic",
               "type": "url",
               "url": "https://addictomatic.com/"
-            },
-            {
-              "name": "DMOZ",
-              "type": "url",
-              "url": "https://www.dmoz.org/"
             },
             {
               "name": "AnswerThePublic.com",
@@ -4385,11 +4213,6 @@
               "url": "https://www.webarchive.org.uk/ukwa/"
             },
             {
-              "name": "Screenshots.com",
-              "type": "url",
-              "url": "https://www.screenshots.com/"
-            },
-            {
               "name": "Wayback Machine - Beta Search",
               "type": "url",
               "url": "https://web-beta.archive.org/#/"
@@ -4762,11 +4585,6 @@
               "url": "https://github.com/DedSecInside/TorBot"
             },
             {
-              "name": "Tor Scan",
-              "type": "url",
-              "url": "https://www.torscan.io/"
-            },
-            {
               "name": "Onioff",
               "type": "url",
               "url": "https://github.com/k4m4/onioff"
@@ -4780,11 +4598,6 @@
               "name": "docker-onion-nmap (T)",
               "type": "url",
               "url": "https://github.com/milesrichardson/docker-onion-nmap"
-            },
-            {
-              "name": "Onion Investigator",
-              "type": "url",
-              "url": "https://oint.ctrlbox.com/"
             }
           ],
           "name": "Discovery",
@@ -4889,11 +4702,6 @@
               "name": "Block Explorer",
               "type": "url",
               "url": "https://blockexplorer.com/"
-            },
-            {
-              "name": "Blockr.io",
-              "type": "url",
-              "url": "https://blockr.io/"
             },
             {
               "name": "BitRef",
@@ -5065,7 +4873,7 @@
             {
               "name": "JS NICE",
               "type": "url",
-              "url": "https://jsnice.org/"
+              "url": "http://jsnice.org/"
             },
             {
               "name": "Firebug (T)",
