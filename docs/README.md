@@ -21,10 +21,10 @@
 
 ## Development
 
-- [Propose](https://github.com/digital-clouds/osint/issues/new) the resourses
-- Links located at: [/public/arf.json](/public/arf.json)
-  - [autochecked URL's](https://github.com/digital-clouds/osint/issues/49) are broken/dead and need to be removed/adjusted/fixed.
-  - verified/working URL's, but [ignored](https://github.com/digital-clouds/osint/blob/main/.lycheeignore) from checking, because of it's specefic behaviour/response.
+- [Propose](https://github.com/digital-clouds/osint/issues/new) the resources
+- Links located at [/public/arf.json](/public/arf.json)
+  - [autochecked URLs](https://github.com/digital-clouds/osint/issues/49) are broken/dead and need to be removed/adjusted/fixed.
+  - verified/working URLs, but [ignored](https://github.com/digital-clouds/osint/blob/main/.lycheeignore) from checking, because of its specefic behaviour/response.
 - Dependencies: [git](https://github.com/git-guides/install-git), [pnpm](https://pnpm.io/installation)
 
 Clone and install:
