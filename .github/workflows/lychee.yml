@@ -6,6 +6,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "00 18 * * *"
+  push:
+    branches: [main]
+    paths: [/public/arf.json]
 
 jobs:
   linkChecker:
@@ -23,7 +26,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v1.5.4
         with:
-          args: "--cache --max-cache-age 1d --insecure './public/arf.json'"
+          args: "--cache --max-cache-age 1d --config ./lychee.toml --insecure './public/arf.json'"
           format: markdown
           output: ./docs/LINKS_REPORT.md
           fail: false

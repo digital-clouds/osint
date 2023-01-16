@@ -12,6 +12,7 @@ runtimes:
     - node@16.14.2
 lint:
   enabled:
+    - taplo@0.7.0
     - oxipng@8.0.0
     - actionlint@1.6.22
     - git-diff-check

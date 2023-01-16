@@ -125,7 +125,7 @@
             {
               "name": "theHarvester (T)",
               "type": "url",
-              "url": "http://www.edge-security.com/theharvester.php"
+              "url": "https://www.edge-security.com/theharvester.php"
             },
             {
               "name": "Infoga (T)",
@@ -184,11 +184,6 @@
         },
         {
           "children": [
-            {
-              "name": "MailTester",
-              "type": "url",
-              "url": "http://mailtester.com/testmail.php"
-            },
             {
               "name": "VerifyEmail",
               "type": "url",
@@ -632,7 +627,7 @@
             {
               "name": "Zscaler Zulu URL Risk Analyzer",
               "type": "url",
-              "url": "http://zulu.zscaler.com/"
+              "url": "https://zulu.zscaler.com/"
             },
             {
               "name": "Joe Sandbox Url Analyzer",
@@ -648,11 +643,6 @@
               "name": "Cisco SenderBase",
               "type": "url",
               "url": "http://www.senderbase.org/"
-            },
-            {
-              "name": "AVG Threat Labs",
-              "type": "url",
-              "url": "http://www.avgthreatlabs.com/ww-en/website-safety-reports/"
             },
             {
               "name": "Webroot BrightCloud URL/IP Lookup",
@@ -708,7 +698,7 @@
             {
               "name": "MalwareURL (R)",
               "type": "url",
-              "url": "http://www.malwareurl.com/index.php"
+              "url": "https://www.malwareurl.com/index.php"
             },
             {
               "name": "scumware.org",
@@ -830,7 +820,7 @@
             {
               "name": "Cisco Umbrella Popularity List",
               "type": "url",
-              "url": "http://s3-us-west-1.amazonaws.com/umbrella-static/index.html"
+              "url": "https://s3-us-west-1.amazonaws.com/umbrella-static/index.html"
             },
             {
               "name": "Alexa Top 500 Global Sites",
@@ -861,11 +851,6 @@
               "name": "PubDB",
               "type": "url",
               "url": "http://pub-db.com/"
-            },
-            {
-              "name": "WWW Domain Tools",
-              "type": "url",
-              "url": "https://w3dt.net/"
             },
             {
               "name": "SimilarWeb",
@@ -911,7 +896,7 @@
             {
               "name": "CheckShortURL",
               "type": "url",
-              "url": "http://checkshorturl.com/"
+              "url": "https://checkshorturl.com/"
             },
             {
               "name": "URL Expander",
@@ -1152,11 +1137,6 @@
               "name": "ipTRACKERonline",
               "type": "url",
               "url": "https://www.iptrackeronline.com/"
-            },
-            {
-              "name": "My IP Address",
-              "type": "url",
-              "url": "https://www.ipaddress.my/"
             }
           ],
           "name": "Geolocation",
@@ -2191,11 +2171,6 @@
                   "url": "https://moz.com/followerwonk/bio/?q=zero%20day&l=us"
                 },
                 {
-                  "name": "HootSuite",
-                  "type": "url",
-                  "url": "https://hootsuite.com/feed/SearchTerm?pfilter="
-                },
-                {
                   "name": "TweetDeck",
                   "type": "url",
                   "url": "https://tweetdeck.twitter.com/"
@@ -2277,7 +2252,7 @@
                     {
                       "name": "TweetTunnel",
                       "type": "url",
-                      "url": "http://tweettunnel.info/firstpre.php"
+                      "url": "https://tweettunnel.info/firstpre.php"
                     },
                     {
                       "name": "Twitalyzer",
@@ -2362,7 +2337,7 @@
                 {
                   "name": "Tinfoleak.py (T)",
                   "type": "url",
-                  "url": "http://www.vicenteaguileradiaz.com/tools/"
+                  "url": "https://vicenteaguileradiaz.com/tools/"
                 },
                 {
                   "name": "DMI-TCAT (T)",
@@ -2394,11 +2369,6 @@
                   "name": "TweetPaths",
                   "type": "url",
                   "url": "http://www.tweetpaths.com/maps"
-                },
-                {
-                  "name": "TeachingPrivacy",
-                  "type": "url",
-                  "url": "http://app.teachingprivacy.com/"
                 },
                 {
                   "name": "Echosec",
@@ -2551,7 +2521,7 @@
             {
               "name": "Google Social Search",
               "type": "url",
-              "url": "http://www.social-searcher.com/google-social-search/"
+              "url": "https://www.social-searcher.com/google-social-search/"
             },
             {
               "name": "Periscope Search",
@@ -2666,11 +2636,6 @@
               "url": "http://www.peekyou.com/"
             },
             {
-              "name": "PeepDB",
-              "type": "url",
-              "url": "http://www.peepdb.com/"
-            },
-            {
               "name": "Reverse Genie People",
               "type": "url",
               "url": "http://www.reversegenie.com/people.php"
@@ -2754,11 +2719,6 @@
               "name": "Nuwber",
               "type": "url",
               "url": "https://nuwber.com/"
-            },
-            {
-              "name": "eVerify",
-              "type": "url",
-              "url": "http://www.everify.com/"
             },
             {
               "name": "Genealogy.com",
@@ -2949,7 +2909,7 @@
         {
           "name": "BlackPeopleMeet",
           "type": "url",
-          "url": "http://www.blackpeoplemeet.com/"
+          "url": "https://www.blackpeoplemeet.com/"
         },
         {
           "children": [
@@ -3018,7 +2978,7 @@
         {
           "name": "CallerID Test",
           "type": "url",
-          "url": "http://www.calleridtest.com/"
+          "url": "https://calleridtest.com/"
         },
         {
           "name": "ThatsThem - Reverse Phone Lookup",
@@ -3162,7 +3122,7 @@
             {
               "name": "Black Book Online - Criminal Search",
               "type": "url",
-              "url": "http://www.blackbookonline.info/criminalsearch.aspx"
+              "url": "https://www.blackbookonline.info/criminalsearch.aspx"
             },
             {
               "name": "CrimeReports.com",
@@ -3223,7 +3183,7 @@
             {
               "name": "CA Salary DB",
               "type": "url",
-              "url": "http://www.sacbee.com/site-services/databases/state-pay/article2642161.html"
+              "url": "https://www.sacbee.com/news/databases/state-pay/article229468549.html"
             }
           ],
           "name": "Government Records",
@@ -3244,7 +3204,7 @@
             {
               "name": "NETR Online",
               "type": "url",
-              "url": "http://publicrecords.netronline.com/"
+              "url": "https://publicrecords.netronline.com/"
             }
           ],
           "name": "Financial / Tax Resources",
@@ -3256,11 +3216,6 @@
               "name": "Sorted by Birth Date",
               "type": "url",
               "url": "http://sortedbybirthdate.com/"
-            },
-            {
-              "name": "Moose Roots Birth Records",
-              "type": "url",
-              "url": "http://birth-records.mooseroots.com/"
             },
             {
               "name": "Birth Database",
@@ -3287,11 +3242,6 @@
               "name": "GraveInfo",
               "type": "url",
               "url": "http://www.graveinfo.com/"
-            },
-            {
-              "name": "Moose Roots Death Records",
-              "type": "url",
-              "url": "http://death-records.mooseroots.com/"
             }
           ],
           "name": "Death Records",
@@ -3318,7 +3268,7 @@
             {
               "name": "Voter Registration Data",
               "type": "url",
-              "url": "http://www.blackbookonline.info/USA-Voter-Records.aspx"
+              "url": "https://www.blackbookonline.info/USA-Voter-Records.aspx"
             }
           ],
           "name": "Voter Records",
@@ -3329,7 +3279,7 @@
             {
               "name": "US Patent Office Search",
               "type": "url",
-              "url": "http://patft.uspto.gov/netahtml/PTO/index.html"
+              "url": "https://ppubs.uspto.gov/pubwebapp/static/pages/landing.html"
             },
             {
               "name": "Google Patent Search",
@@ -3624,7 +3574,7 @@
             {
               "name": "Orbis Directory",
               "type": "url",
-              "url": "https://orbisdirectory.bvdinfo.com/version-2016121/OrbisDirectory/Companies"
+              "url": "https://orbisdirectory-r1.bvdinfo.com/version-20221207-3280-32/OrbisDirectory/Companies?"
             },
             {
               "name": "Manta Small Business Directory",
@@ -3854,7 +3804,7 @@
             {
               "name": "GPSVisualizer",
               "type": "url",
-              "url": "http://www.gpsvisualizer.com/geocode"
+              "url": "https://www.gpsvisualizer.com/geocode"
             },
             {
               "name": "Military Grid Reference System Coordinates",
@@ -3955,7 +3905,7 @@
         {
           "name": "OpenStreetMap",
           "type": "url",
-          "url": "http://www.openstreetmap.org/#map=5/40.614/-100.679"
+          "url": "https://www.openstreetmap.org/#map=5/40.614/-100.679"
         },
         {
           "name": "Flash Earth",
@@ -4138,7 +4088,7 @@
             {
               "name": "iZito",
               "type": "url",
-              "url": "http://www.izito.com/"
+              "url": "https://www.izito.com/"
             },
             {
               "name": "Bing vs. Google",
@@ -4200,11 +4150,6 @@
               "name": "Addictomatic",
               "type": "url",
               "url": "http://addictomatic.com/"
-            },
-            {
-              "name": "WhosTalkin",
-              "type": "url",
-              "url": "http://www.whostalkin.com/"
             },
             {
               "name": "DMOZ",
@@ -4362,7 +4307,7 @@
             {
               "name": "PQDT Open",
               "type": "url",
-              "url": "http://pqdtopen.proquest.com/search.html"
+              "url": "https://www.proquest.com/search"
             },
             {
               "name": "Think Tank Search",
@@ -4507,11 +4452,6 @@
               "url": "http://search-id.com/"
             },
             {
-              "name": "EntityCube",
-              "type": "url",
-              "url": "http://entitycube.research.microsoft.com/"
-            },
-            {
               "name": "FindTheData A Research Engine",
               "type": "url",
               "url": "http://www.findthedata.com/"
@@ -4633,11 +4573,6 @@
               "name": "Verification Junkie",
               "type": "url",
               "url": "http://verificationjunkie.com/"
-            },
-            {
-              "name": "MediaBugs",
-              "type": "url",
-              "url": "http://mediabugs.org/"
             }
           ],
           "name": "Fact Checking",
@@ -4886,7 +4821,7 @@
             {
               "name": "ExifTool (T)",
               "type": "url",
-              "url": "http://www.sno.phy.queensu.ca/~phil/exiftool/"
+              "url": "https://exiftool.org/"
             },
             {
               "name": "Metagoofil (T)",
@@ -4901,7 +4836,7 @@
             {
               "name": "CodeTwo Outlook Export (T)",
               "type": "url",
-              "url": "http://www.codetwo.com/freeware/outlook-export/"
+              "url": "https://www.codetwo.com/freeware/outlook-export/"
             }
           ],
           "name": "Metadata",
@@ -5432,7 +5367,7 @@
                 {
                   "name": "XORSearch & XORStrings (T)",
                   "type": "url",
-                  "url": "http://blog.didierstevens.com/programs/xorsearch/"
+                  "url": "https://blog.didierstevens.com/programs/xorsearch/"
                 },
                 {
                   "name": "xortool (T)",
@@ -5607,7 +5542,7 @@
             {
               "name": "VMware Workstation Player (T)",
               "type": "url",
-              "url": "http://www.vmware.com/products/player/playerpro-evaluation.html"
+              "url": "https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html"
             },
             {
               "name": "VirtualBox (T)",
@@ -5863,7 +5798,7 @@
             {
               "name": "Default Password Lookup Utility",
               "type": "url",
-              "url": "http://www.fortypoundhead.com/tools_dpw.asp"
+              "url": "https://www.fortypoundhead.com/tools_dpw.asp"
             },
             {
               "name": "Default Router Passwords",
@@ -6021,7 +5956,7 @@
         {
           "name": "Malware Information Sharing Platform",
           "type": "url",
-          "url": "http://www.misp-project.org/"
+          "url": "https://www.misp-project.org/"
         },
         {
           "name": "Malware Patrol",
