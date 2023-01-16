@@ -8,6 +8,9 @@
   <a href="https://github.com/digital-clouds/osint/actions/workflows/lychee.yml">
     <img src="https://github.com/digital-clouds/osint/actions/workflows/lychee.yml/badge.svg" alt="Lychee Check Links" />
   </a>
+  <a href="https://github.com/digital-clouds/osint/actions/workflows/cloudflare-pages.yml">
+    <img src="https://github.com/digital-clouds/osint/actions/workflows/cloudflare-pages.yml/badge.svg" alt="Deployment" />
+  </a>
 </p>
 
 ```sh
