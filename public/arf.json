@@ -236,28 +236,12 @@
               "url": "https://dehashed.com/"
             },
             {
-              "name": "Breach or Clear",
-              "type": "url",
-              "url": "https://breachorclear.jesterscourt.cc/"
-            },
-            {
               "name": "Ashley Madison Emails",
               "type": "url",
               "url": "https://ashley.cynic.al/"
             }
           ],
           "name": "Breach Data",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "name": "DNS Blackhole Lists",
-              "type": "url",
-              "url": "https://www.tcpiputils.com/dns-blackhole-list"
-            }
-          ],
-          "name": "Spam Reputation Lists",
           "type": "folder"
         },
         {
@@ -475,11 +459,6 @@
               "name": "Daily DNS Changes",
               "type": "url",
               "url": "https://www.dailychanges.com/"
-            },
-            {
-              "name": "SameID",
-              "type": "url",
-              "url": "https://sameid.net/"
             },
             {
               "name": "Redirect Detective",
@@ -863,11 +842,6 @@
         },
         {
           "children": [
-            {
-              "name": "Link Expander",
-              "type": "url",
-              "url": "https://www.linkexpander.com/"
-            },
             {
               "name": "GetLinkInfo",
               "type": "url",
@@ -1297,11 +1271,6 @@
         {
           "children": [
             {
-              "name": "CloudFlare Watch",
-              "type": "url",
-              "url": "https://www.crimeflare.com/"
-            },
-            {
               "name": "CloudFail (T)",
               "type": "url",
               "url": "https://github.com/m0rtem/CloudFail"
@@ -1454,11 +1423,6 @@
                   "url": "https://current-location.com/"
                 },
                 {
-                  "name": "Lakako Photo Search",
-                  "type": "url",
-                  "url": "https://www.lakako.com/"
-                },
-                {
                   "name": "CC Search",
                   "type": "url",
                   "url": "https://ccsearch.creativecommons.org/"
@@ -1486,7 +1450,7 @@
                 {
                   "name": "Places2",
                   "type": "url",
-                  "url": "https://places2.csail.mit.edu/explore.html"
+                  "url": "http://places2.csail.mit.edu/explore.html"
                 },
                 {
                   "name": "Image Identification Project",
@@ -2249,11 +2213,6 @@
         {
           "children": [
             {
-              "name": "SnoopSnoo",
-              "type": "url",
-              "url": "https://snoopsnoo.com/"
-            },
-            {
               "name": "Reddit Archive",
               "type": "url",
               "url": "https://www.redditarchive.com/"
@@ -2763,11 +2722,6 @@
           "url": "https://www.calleridservice.com/"
         },
         {
-          "name": "Data24-7 (R)",
-          "type": "url",
-          "url": "https://www.data24-7.com/signup.php"
-        },
-        {
           "name": "HLR Lookup Portal (R)",
           "type": "url",
           "url": "https://www.hlr-lookups.com/"
@@ -2840,11 +2794,6 @@
               "name": "Nationwide County Court Records",
               "type": "url",
               "url": "https://www.blackbookonline.info/USA-County-Court-Records.aspx"
-            },
-            {
-              "name": "World Legal Information Institute",
-              "type": "url",
-              "url": "https://worldlii.org/"
             },
             {
               "name": "Canadian Legal Information Institute",
@@ -2982,11 +2931,6 @@
         },
         {
           "children": [
-            {
-              "name": "Voter Records",
-              "type": "url",
-              "url": "https://voterrecords.com/"
-            },
             {
               "name": "Voter Registration Data",
               "type": "url",
@@ -3189,19 +3133,9 @@
               "url": "https://www.infobel.com/en/world/"
             },
             {
-              "name": "Mint Portal",
-              "type": "url",
-              "url": "https://mintbusinessinfo.com/version-2015129/portal.serv?product=mintportal"
-            },
-            {
               "name": "AIHIT",
               "type": "url",
               "url": "https://www.aihitdata.com/"
-            },
-            {
-              "name": "Plonked",
-              "type": "url",
-              "url": "https://www.plonked.com/"
             },
             {
               "name": "Buzzfile",
@@ -4000,11 +3934,6 @@
               "name": "AllYouCanRead.com",
               "type": "url",
               "url": "https://www.allyoucanread.com/"
-            },
-            {
-              "name": "World News",
-              "type": "url",
-              "url": "https://wn.com/#/search"
             },
             {
               "name": "NewsNow.co.uk",
@@ -5893,7 +5822,7 @@
             {
               "name": "A Google A Day",
               "type": "url",
-              "url": "https://www.agoogleaday.com/"
+              "url": "http://www.agoogleaday.com/"
             },
             {
               "name": "GeoGuesser",
