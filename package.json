@@ -5,7 +5,7 @@
   "main": "public/index.html",
   "scripts": {
     "clean": "pnpm exec rm -rf node_modules build pnpm-lock.yaml",
-    "preinstall": "npx only-allow pnpm",
+    "preinstall": "npm i -g pnpm",
     "upgrade": "pnpm upgrade -i -L",
     "postinstall": "pnpm audit && copyfiles -f ./node_modules/d3/d3.min.js ./public/js/vendor/d3",
     "fmt": "trunk fmt",
