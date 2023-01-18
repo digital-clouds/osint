@@ -118,11 +118,6 @@
               "url": "https://www.voilanorbert.com/"
             },
             {
-              "name": "Reverse Genie Email",
-              "type": "url",
-              "url": "https://www.reversegenie.com/email.php"
-            },
-            {
               "name": "theHarvester (T)",
               "type": "url",
               "url": "https://www.edge-security.com/theharvester.php"
@@ -269,24 +264,9 @@
               "url": "https://centralops.net/co/DomainDossier.aspx"
             },
             {
-              "name": "domainIQ",
-              "type": "url",
-              "url": "https://www.domainiq.com/"
-            },
-            {
               "name": "DomainTools Whois",
               "type": "url",
               "url": "https://whois.domaintools.com/"
-            },
-            {
-              "name": "DNStable",
-              "type": "url",
-              "url": "https://dnstable.com/"
-            },
-            {
-              "name": "Domain Big Data",
-              "type": "url",
-              "url": "https://domainbigdata.com/"
             },
             {
               "name": "Whoisology",
@@ -523,11 +503,6 @@
               "url": "https://dnshistory.org/"
             },
             {
-              "name": "PTRarchive.com",
-              "type": "url",
-              "url": "https://ptrarchive.com/"
-            },
-            {
               "name": "DNS Dumpster",
               "type": "url",
               "url": "https://dnsdumpster.com/"
@@ -543,11 +518,6 @@
         },
         {
           "children": [
-            {
-              "name": "UrlQuery.net",
-              "type": "url",
-              "url": "https://urlquery.net/"
-            },
             {
               "name": "PassiveTotal",
               "type": "url",
@@ -622,11 +592,6 @@
               "name": "Malware Domain List",
               "type": "url",
               "url": "https://www.malwaredomainlist.com/mdl.php"
-            },
-            {
-              "name": "Web Inspector Online Scan",
-              "type": "url",
-              "url": "https://app.webinspector.com/"
             },
             {
               "name": "Google Safe Browsing API",
@@ -712,11 +677,6 @@
               "url": "https://builtwith.com/"
             },
             {
-              "name": "SiteSleuth",
-              "type": "url",
-              "url": "https://www.sitesleuth.io/"
-            },
-            {
               "name": "Wappalyzer (T)",
               "type": "url",
               "url": "https://wappalyzer.com/"
@@ -799,7 +759,7 @@
             {
               "name": "Visual Site Mapper",
               "type": "url",
-              "url": "https://www.visualsitemapper.com/"
+              "url": "http://www.visualsitemapper.com/"
             },
             {
               "name": "ClearWebStats.com",
@@ -894,11 +854,6 @@
               "url": "https://github.com/thp/urlwatch"
             },
             {
-              "name": "WatchThatPage",
-              "type": "url",
-              "url": "https://watchthatpage.com/"
-            },
-            {
               "name": "ChangeDetect",
               "type": "url",
               "url": "https://www.changedetect.com/"
@@ -958,11 +913,6 @@
                   "name": "Sn1per (T)",
                   "type": "url",
                   "url": "https://github.com/1N3/Sn1per"
-                },
-                {
-                  "name": "Mage Scan",
-                  "type": "url",
-                  "url": "https://magescan.com/"
                 }
               ],
               "name": "Scanners",
@@ -1378,11 +1328,6 @@
                   "url": "https://shitu.baidu.com/"
                 },
                 {
-                  "name": "Twitter Image Search (M)",
-                  "type": "url",
-                  "url": "https://twitter.com/search?q=%3Csearchterm%3E&src=typd&vertical=default&f=images"
-                },
-                {
                   "name": "Imgur Search",
                   "type": "url",
                   "url": "https://imgur.com/search"
@@ -1396,11 +1341,6 @@
                   "name": "PicSearch",
                   "type": "url",
                   "url": "https://www.picsearch.com/"
-                },
-                {
-                  "name": "Karma Decay",
-                  "type": "url",
-                  "url": "https://karmadecay.com/"
                 },
                 {
                   "name": "Image Raider",
@@ -1518,11 +1458,6 @@
                   "name": "ImgOps",
                   "type": "url",
                   "url": "https://imgops.com/"
-                },
-                {
-                  "name": "Metapicz",
-                  "type": "url",
-                  "url": "https://metapicz.com/#landing"
                 },
                 {
                   "name": "JPEGsnoop (T)",
@@ -1653,11 +1588,6 @@
                   "name": "LiveLeak",
                   "type": "url",
                   "url": "https://www.liveleak.com/"
-                },
-                {
-                  "name": "Metacafe",
-                  "type": "url",
-                  "url": "https://www.metacafe.com/"
                 },
                 {
                   "name": "Metatube",
@@ -1874,11 +1804,6 @@
                   "url": "https://searchisback.com/"
                 },
                 {
-                  "name": "Socialsearching",
-                  "type": "url",
-                  "url": "https://socialsearching.info/#/fb"
-                },
-                {
                   "name": "Facebook Live Map",
                   "type": "url",
                   "url": "https://www.facebook.com/livemap#"
@@ -1912,26 +1837,6 @@
                   "url": "https://twitter.com/search-advanced"
                 },
                 {
-                  "name": "Twitter Location Search",
-                  "type": "url",
-                  "url": "https://twitter.com/search?q=geocode%3A36.1143855%2C-115.1727518%2C1km&src=typd"
-                },
-                {
-                  "name": "Twitter Date Search",
-                  "type": "url",
-                  "url": "https://twitter.com/search?q=SearchTerm%20since:2016-03-01%20until:2016-03-02"
-                },
-                {
-                  "name": "Twitter Name Search",
-                  "type": "url",
-                  "url": "https://twitter.com/#!/who_to_follow"
-                },
-                {
-                  "name": "ConWeets",
-                  "type": "url",
-                  "url": "https://www.conweets.com/"
-                },
-                {
                   "name": "Twitterfall",
                   "type": "url",
                   "url": "https://twitterfall.com/"
@@ -1940,11 +1845,6 @@
                   "name": "Twellow",
                   "type": "url",
                   "url": "https://www.twellow.com/splash/"
-                },
-                {
-                  "name": "TweetReach",
-                  "type": "url",
-                  "url": "https://tweetreach.com/"
                 },
                 {
                   "name": "BackTweets",
@@ -2029,11 +1929,6 @@
                       "name": "TweetTunnel",
                       "type": "url",
                       "url": "https://tweettunnel.info/firstpre.php"
-                    },
-                    {
-                      "name": "Twitalyzer",
-                      "type": "url",
-                      "url": "https://twitalyzer.com/5/index.asp"
                     },
                     {
                       "name": "Foller.me Analytics",
@@ -2130,11 +2025,6 @@
                   "name": "GeoChirp",
                   "type": "url",
                   "url": "https://www.geochirp.com/"
-                },
-                {
-                  "name": "GeoSocial Footprint",
-                  "type": "url",
-                  "url": "https://geosocialfootprint.com/"
                 },
                 {
                   "name": "Echosec",
@@ -2365,11 +2255,6 @@
               "name": "Radaris",
               "type": "url",
               "url": "https://radaris.com/"
-            },
-            {
-              "name": "Profile Engine",
-              "type": "url",
-              "url": "https://profileengine.com/"
             },
             {
               "name": "Intelius",
@@ -2692,11 +2577,6 @@
           "url": "https://www.truecaller.com/"
         },
         {
-          "name": "Reverse Genie",
-          "type": "url",
-          "url": "https://www.reversegenie.com/phone.php"
-        },
-        {
           "name": "SpyDialer",
           "type": "url",
           "url": "https://www.spydialer.com/default.aspx"
@@ -2717,11 +2597,6 @@
           "url": "https://mrnumber.com/1-888-742-0000"
         },
         {
-          "name": "CallerIDService.com (R)",
-          "type": "url",
-          "url": "https://www.calleridservice.com/"
-        },
-        {
           "name": "HLR Lookup Portal (R)",
           "type": "url",
           "url": "https://www.hlr-lookups.com/"
@@ -2732,14 +2607,9 @@
           "url": "https://www.opencnam.com/"
         },
         {
-          "name": "OpenCNAM API",
-          "type": "url",
-          "url": "https://api.opencnam.com/v2/phone/+19073372323"
-        },
-        {
           "name": "USPhoneBook",
           "type": "url",
-          "url": "https://www.usphonebook.com"
+          "url": "https://www.usphonebook.com/"
         },
         {
           "name": "Numspy",
@@ -3031,16 +2901,6 @@
               "url": "https://www.reportlinker.com/"
             },
             {
-              "name": "Public Register Online",
-              "type": "url",
-              "url": "https://www.annualreportservice.com/"
-            },
-            {
-              "name": "Public Register's Annual Report Service",
-              "type": "url",
-              "url": "https://www.prars.com/search/alpha/A"
-            },
-            {
               "name": "The Investor - Africa",
               "type": "url",
               "url": "https://theinvestormailinglist.com/recent-reports/"
@@ -3118,11 +2978,6 @@
               "url": "https://www.corporationwiki.com/"
             },
             {
-              "name": "Data.com Connect",
-              "type": "url",
-              "url": "https://connect.data.com/"
-            },
-            {
               "name": "Kompass International",
               "type": "url",
               "url": "https://www.kompass.com/selectcountry/"
@@ -3175,17 +3030,12 @@
             {
               "name": "Owler (R)",
               "type": "url",
-              "url": "https://www.owler.com/"
+              "url": "https://www.owler.com/corp"
             },
             {
               "name": "Vault",
               "type": "url",
               "url": "https://www.vault.com/"
-            },
-            {
-              "name": "D&B Company Search",
-              "type": "url",
-              "url": "https://www.dnb.com/"
             },
             {
               "name": "Companies In The UK",
@@ -3244,11 +3094,6 @@
               "name": "That's Them VIN Search",
               "type": "url",
               "url": "https://thatsthem.com/vin-search"
-            },
-            {
-              "name": "Reverse Genie License Plates",
-              "type": "url",
-              "url": "https://www.reversegenie.com/plate.php"
             },
             {
               "name": "VinCheck",
@@ -3563,11 +3408,6 @@
           "url": "https://www.openrailwaymap.org/"
         },
         {
-          "name": "OpenStreetMap Routing Service",
-          "type": "url",
-          "url": "https://www.yournavigation.org/"
-        },
-        {
           "name": "Hiking & Biking Map",
           "type": "url",
           "url": "https://hikebikemap.org/"
@@ -3667,19 +3507,9 @@
         {
           "children": [
             {
-              "name": "iSEEK",
-              "type": "url",
-              "url": "https://iseek.com/iseek/home.page"
-            },
-            {
               "name": "Biznar",
               "type": "url",
               "url": "https://biznar.com/biznar/desktop/en/search.html"
-            },
-            {
-              "name": "Carrot2",
-              "type": "url",
-              "url": "https://search.carrot2.org/stable/search"
             },
             {
               "name": "Yippy",
@@ -3690,11 +3520,6 @@
               "name": "eTools.ch",
               "type": "url",
               "url": "https://www.etools.ch/"
-            },
-            {
-              "name": "Addictomatic",
-              "type": "url",
-              "url": "https://addictomatic.com/"
             },
             {
               "name": "AnswerThePublic.com",
@@ -3757,11 +3582,6 @@
               "name": "Napalm FTP",
               "type": "url",
               "url": "https://www.searchftps.net/"
-            },
-            {
-              "name": "FileMare",
-              "type": "url",
-              "url": "https://filemare.com/en-us"
             }
           ],
           "name": "FTP Search",
@@ -3803,11 +3623,6 @@
               "name": "World Digital Library",
               "type": "url",
               "url": "https://www.wdl.org/en/"
-            },
-            {
-              "name": "JURN",
-              "type": "url",
-              "url": "https://jurn.org/#gsc.tab=0"
             },
             {
               "name": "HathiTrust Digital Library",
@@ -3980,11 +3795,6 @@
               "name": "AOL Search Database",
               "type": "url",
               "url": "https://search-id.com/"
-            },
-            {
-              "name": "FindTheData A Research Engine",
-              "type": "url",
-              "url": "https://www.findthedata.com/"
             }
           ],
           "name": "Other Search",
@@ -4117,24 +3927,9 @@
               "url": "https://archive.is/"
             },
             {
-              "name": "WebCite",
-              "type": "url",
-              "url": "https://webcitation.org/query"
-            },
-            {
               "name": "Cached View",
               "type": "url",
               "url": "https://cachedview.com/"
-            },
-            {
-              "name": "Cached Pages",
-              "type": "url",
-              "url": "https://www.cachedpages.com/"
-            },
-            {
-              "name": "Textfiles.com",
-              "type": "url",
-              "url": "https://textfiles.com/"
             },
             {
               "name": "UK Web Archive",
@@ -4270,16 +4065,6 @@
               "name": "Bing Translate",
               "type": "url",
               "url": "https://www.bing.com/translator/"
-            },
-            {
-              "name": "Dictionary.com Translator",
-              "type": "url",
-              "url": "https://translate.reference.com/"
-            },
-            {
-              "name": "Free Online Translation",
-              "type": "url",
-              "url": "https://www.worldlingo.com/en/products_services/worldlingo_translator.html"
             },
             {
               "name": "Wiktionary",
@@ -4743,11 +4528,6 @@
           "name": "TotalCraigSearch",
           "type": "url",
           "url": "https://www.totalcraigsearch.com/"
-        },
-        {
-          "name": "Backpage",
-          "type": "url",
-          "url": "https://www.backpage.com/"
         },
         {
           "name": "Search Tempest",
@@ -5352,11 +5132,6 @@
               "url": "https://openphish.com/feed.txt"
             },
             {
-              "name": "PhishTank",
-              "type": "url",
-              "url": "https://www.phishtank.com/"
-            },
-            {
               "name": "PhishStats",
               "type": "url",
               "url": "https://phishstats.info/"
@@ -5746,11 +5521,6 @@
               "url": "https://www.page2images.com/URL-Live-Website-Screenshot-Generator"
             },
             {
-              "name": "Archive.is",
-              "type": "url",
-              "url": "https://archive.is/"
-            },
-            {
               "name": "Web Page Saver",
               "type": "url",
               "url": "https://www.magnetforensics.com/free-tool-web-page-saver/"
@@ -5828,11 +5598,6 @@
               "name": "GeoGuesser",
               "type": "url",
               "url": "https://geoguessr.com/"
-            },
-            {
-              "name": "Verif!cation Quiz Bot",
-              "type": "url",
-              "url": "https://twitter.com/quiztime"
             }
           ],
           "name": "Games",
