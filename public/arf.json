@@ -213,7 +213,7 @@
             {
               "name": "Have I been pwned?",
               "type": "url",
-              "url": "https://haveibeenpwned.com/"
+              "url": "https://haveibeenpwned.com"
             },
             {
               "name": "DeHashed",
@@ -490,7 +490,7 @@
             {
               "name": "Security Trails",
               "type": "url",
-              "url": "https://securitytrails.com/"
+              "url": "https://securitytrails.com"
             },
             {
               "name": "Mnemonic",
@@ -1119,7 +1119,7 @@
             {
               "name": "Hurricane Electric BGP Toolkit",
               "type": "url",
-              "url": "https://bgp.he.net/"
+              "url": "https://bgp.he.net"
             },
             {
               "name": "BGP Malicious Content Ranking",
@@ -2259,7 +2259,7 @@
             {
               "name": "Intelius",
               "type": "url",
-              "url": "https://www.intelius.com/"
+              "url": "https://www.intelius.com"
             },
             {
               "name": "InfoSpace",
@@ -2324,7 +2324,7 @@
             {
               "name": "My Life",
               "type": "url",
-              "url": "https://www.mylife.com/"
+              "url": "https://www.mylife.com"
             },
             {
               "name": "AnyWho",
@@ -5106,7 +5106,7 @@
         {
           "name": "0day.today",
           "type": "url",
-          "url": "https://0day.today/"
+          "url": "https://0day.today"
         },
         {
           "name": "Secunia",
