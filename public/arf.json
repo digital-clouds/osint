@@ -474,7 +474,7 @@
             {
               "name": "crt.sh - Certificate Search",
               "type": "url",
-              "url": "https://crt.sh/?"
+              "url": "https://crt.sh"
             },
             {
               "name": "certgraph (T)",
@@ -581,7 +581,7 @@
             {
               "name": "vURL Online",
               "type": "url",
-              "url": "https://vurldissect.co.uk/"
+              "url": "https://vurldissect.co.uk"
             },
             {
               "name": "AlienVault Open Threat Exchange",
@@ -1194,11 +1194,6 @@
         },
         {
           "children": [
-            {
-              "name": "IP Fingerprints - Reverse IP Lookup",
-              "type": "url",
-              "url": "https://www.ipfingerprints.com/reverseip.php"
-            },
             {
               "name": "Bing IP Search (D)",
               "type": "url",
@@ -2359,7 +2354,7 @@
             {
               "name": "Fast People Search",
               "type": "url",
-              "url": "https://www.fastpeoplesearch.com/"
+              "url": "https://www.fastpeoplesearch.com"
             },
             {
               "name": "Speedy Hunt",
