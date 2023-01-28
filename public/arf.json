@@ -702,11 +702,6 @@
               "url": "https://ewhois.com/"
             },
             {
-              "name": "Netcraft",
-              "type": "url",
-              "url": "https://toolbar.netcraft.com/site_report?url=undefined#last_reboot"
-            },
-            {
               "name": "StatsCrop",
               "type": "url",
               "url": "https://www.statscrop.com/"
@@ -1934,11 +1929,6 @@
                       "name": "SleepingTime",
                       "type": "url",
                       "url": "https://sleepingtime.org/"
-                    },
-                    {
-                      "name": "Bioischanged (M)",
-                      "type": "url",
-                      "url": "https://bioischanged.com/%3Ctwitterusername%3E"
                     },
                     {
                       "name": "X0rz Tweets_analyzer",
@@ -3535,7 +3525,7 @@
             {
               "name": "NerdyData",
               "type": "url",
-              "url": "https://nerdydata.com/search"
+              "url": "https://www.nerdydata.com/reports/new"
             },
             {
               "name": "Gitrob (T)",
