@@ -1,15 +1,11 @@
 version: 0.1
-actions:
-  enabled:
-    - trunk-announce
-    - trunk-cache-prune
-    - trunk-check-pre-push
-    - trunk-fmt-pre-commit
-    - trunk-upgrade-available
-runtimes:
-  enabled:
-    - go@1.18.3
-    - node@16.14.2
+cli:
+  version: 1.4.1
+plugins:
+  sources:
+    - id: trunk
+      ref: v0.0.8
+      uri: https://github.com/trunk-io/plugins
 lint:
   enabled:
     - taplo@0.7.0
@@ -23,14 +19,18 @@ lint:
   ignore:
     - linters: [ALL]
       paths:
-        - .yarn/**
+        - ".yarn/**"
     - linters: [prettier]
       paths:
-        - public/css/**
-cli:
-  version: 1.4.0
-plugins:
-  sources:
-    - id: trunk
-      ref: v0.0.8
-      uri: https://github.com/trunk-io/plugins
+        - "public/css/**"
+actions:
+  enabled:
+    - trunk-announce
+    - trunk-cache-prune
+    - trunk-check-pre-push
+    - trunk-fmt-pre-commit
+    - trunk-upgrade-available
+runtimes:
+  enabled:
+    - go@1.18.3
+    - node@16.14.2
