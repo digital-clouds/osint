@@ -1,5 +1,8 @@
 lockfileVersion: 5.4
 
+overrides:
+  http-cache-semantics@<4.1.1: '>=4.1.1'
+
 specifiers:
   '@trunkio/launcher': 1.2.3
   copyfiles: 2.4.1

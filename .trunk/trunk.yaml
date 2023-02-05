@@ -4,7 +4,7 @@ cli:
 plugins:
   sources:
     - id: trunk
-      ref: v0.0.8
+      ref: v0.0.9
       uri: https://github.com/trunk-io/plugins
 lint:
   enabled:
@@ -17,9 +17,6 @@ lint:
     - prettier@2.8.3
   disabled:
   ignore:
-    - linters: [ALL]
-      paths:
-        - ".yarn/**"
     - linters: [prettier]
       paths:
         - "public/css/**"
