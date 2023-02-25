@@ -5,7 +5,7 @@
   "main": "public/index.html",
   "scripts": {
     "clean": "pnpm exec rm -rf node_modules build pnpm-lock.yaml",
-    "preinstall": "test \"$CF_PAGES\" = 1 && npx pnpm i || echo Install not required..",
+    "cf-pages": "npx pnpm install",
     "upgrade": "pnpm upgrade -i -L",
     "postinstall": "copyfiles -f ./node_modules/d3/d3.min.js ./public/js/vendor/d3",
     "fmt": "trunk fmt",
@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@trunkio/launcher": "1.2.3",
-    "wrangler": "^2.8.1"
+    "wrangler": "^2.11.1"
   },
   "packageManager": "pnpm@7.27.0",
   "pnpm": {
