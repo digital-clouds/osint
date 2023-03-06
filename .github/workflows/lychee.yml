@@ -30,7 +30,7 @@ jobs:
 
       - name: "📊 Lychee Link Checker"
         id: lychee
-        uses: lycheeverse/lychee-action@c90955041c1be4e02158e386ba2b8d9c376160ee
+        uses: lycheeverse/lychee-action@ec141401078393f1f68edbcef205b6db1501fe48
         with:
           args: --user-agent "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0" --verbose --no-progress --insecure './public/arf.json'
           format: markdown
