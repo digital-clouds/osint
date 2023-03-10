@@ -34,7 +34,7 @@ jobs:
       - name: "🏗  Prepare"
         run: pnpm install --prod
       - name: "🚀 Publish"
-        uses: cloudflare/pages-action@v1.3.0
+        uses: cloudflare/pages-action@v1.4.1
         with:
           projectName: "osint-framework"
           directory: "public"
