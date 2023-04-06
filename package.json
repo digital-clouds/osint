@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "copyfiles": "2.4.1",
-    "d3": "7.8.3"
+    "d3": "7.8.4"
   },
   "devDependencies": {
     "@trunkio/launcher": "1.2.3",
