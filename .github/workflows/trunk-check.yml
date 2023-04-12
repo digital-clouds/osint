@@ -19,4 +19,4 @@ jobs:
       - name: ✅ Checkout
         uses: actions/checkout@v3
       - name: ✨ Trunk Check
-        uses: trunk-io/trunk-action@752d7fecb2d04b3aa3bb41b1d3c878e6359ef463
+        uses: trunk-io/trunk-action@368a9c7cdd8132ed8df408bbefce3ab791084868
