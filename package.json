@@ -18,7 +18,7 @@
     "@trunkio/launcher": "1.2.4",
     "wrangler": "^3.1.0"
   },
-  "packageManager": "pnpm@8.5.1",
+  "packageManager": "pnpm@8.6.2",
   "pnpm": {
     "overrides": {
       "http-cache-semantics@<4.1.1": ">=4.1.1"
