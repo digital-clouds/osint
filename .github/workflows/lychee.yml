@@ -32,13 +32,14 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@ef8c8f32c278e9eed290c6e6c96748f16b6cd335
         with:
-          args: --base . --verbose --no-progress './public/arf.json' 
+          args: --config $CONFIG_FILE --base . --verbose --no-progress './public/arf.json' 
           format: markdown
           output: ./docs/LINKS_REPORT.md
           fail: false
           jobSummary: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CONFIG_FILE: ${{ .github.workspace }}/.github/lychee.toml
 
       - name: "🔖 Create Issue From File"
         if: env.lychee_exit_code != 0
