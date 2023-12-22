@@ -21,6 +21,6 @@ jobs:
       actions: write
     steps:
       - name: ✅ Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
       - name: ✨ Trunk Check
         uses: trunk-io/trunk-action@5c85d2a659ef259c7e8037eb0ed0da56a54132f0

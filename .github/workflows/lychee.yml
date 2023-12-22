@@ -20,9 +20,9 @@ jobs:
   check-links:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
       - name: "📤 Restore cache"
-        uses: actions/cache@v3
+        uses: actions/cache@704facf57e6136b1bc63b828d79edcd491f0ee84 # v3
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
@@ -42,7 +42,7 @@ jobs:
 
       - name: "🔖 Create Issue From File"
         if: env.lychee_exit_code != 0
-        uses: peter-evans/create-issue-from-file@v4
+        uses: peter-evans/create-issue-from-file@433e51abf769039ee20ba1293a088ca19d573b7f # v4
         with:
           title: Link Checker Report
           content-filepath: ./docs/LINKS_REPORT.md
