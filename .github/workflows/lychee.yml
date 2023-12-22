@@ -39,7 +39,7 @@ jobs:
           jobSummary: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CONFIG_FILE: ${{ .github.workspace }}/.github/lychee.toml
+          CONFIG_FILE: ${{ github.workspace }}/.github/lychee.toml
 
       - name: "🔖 Create Issue From File"
         if: env.lychee_exit_code != 0
