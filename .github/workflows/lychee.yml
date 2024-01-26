@@ -30,7 +30,7 @@ jobs:
 
       - name: "📊 Lychee Link Checker"
         id: lychee
-        uses: lycheeverse/lychee-action@c3089c702fbb949e3f7a8122be0c33c017904f9b
+        uses: lycheeverse/lychee-action@eeb9cb63fe093e4d17e5853314dbf862bb35f28d
         with:
           args: --config $CONFIG_FILE --base . --verbose --no-progress './public/arf.json' 
           format: markdown
