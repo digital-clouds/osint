@@ -1,10 +1,10 @@
 version: 0.1
 cli:
-  version: 1.10.0
+  version: 1.20.1
 plugins:
   sources:
     - id: trunk
-      ref: v0.0.17
+      ref: v1.2.1
       uri: https://github.com/trunk-io/plugins
 lint:
   disabled:
@@ -15,13 +15,13 @@ lint:
       paths:
         - "public/css/**"
   enabled:
-    - actionlint@1.6.25
+    - actionlint@1.6.26
     - git-diff-check
-    - gitleaks@8.17.0
-    - markdownlint@0.34.0
-    - oxipng@8.0.0
-    - prettier@2.8.8
-    - taplo@0.7.0
+    - gitleaks@8.18.2
+    - markdownlint@0.39.0
+    - oxipng@9.0.0
+    - prettier@3.2.5
+    - taplo@0.8.1
 runtimes:
   enabled:
     - go@1.19.5

@@ -32,7 +32,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@c3089c702fbb949e3f7a8122be0c33c017904f9b
         with:
-          args: --config $CONFIG_FILE --base . --verbose --no-progress './public/arf.json' 
+          args: --config $CONFIG_FILE --base . --verbose --no-progress './public/arf.json'
           format: markdown
           output: ./docs/LINKS_REPORT.md
           fail: false
