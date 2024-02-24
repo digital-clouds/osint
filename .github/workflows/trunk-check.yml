@@ -12,13 +12,12 @@ concurrency:
   group: ${{ github.head_ref || github.run_id }}
   cancel-in-progress: true
 
-permissions: read-all
-
 jobs:
   check:
     runs-on: ubuntu-latest
     permissions:
-      actions: write
+      checks: write # For trunk to post annotations
+      contents: read # For repo checkout
     steps:
       - name: ✅ Checkout
         uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
