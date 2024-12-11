@@ -14,5 +14,5 @@
     "copyfiles": "2.4.1",
     "d3": "7.9.0"
   },
-  "packageManager": "pnpm@8.15.3"
+  "packageManager": "pnpm@9.15.0"
 }
