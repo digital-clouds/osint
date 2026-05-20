@@ -7,6 +7,10 @@ updates:
       interval: "daily"
       time: "04:00"
       timezone: "UTC"
+    groups:
+      npm-dependencies:
+        patterns:
+          - "*"
     open-pull-requests-limit: 10
     labels:
       - "dependencies"
@@ -23,6 +27,10 @@ updates:
     schedule:
       interval: "weekly"
       day: "monday"
+    groups:
+      github-actions:
+        patterns:
+          - "*"
     open-pull-requests-limit: 5
     labels:
       - "dependencies"
