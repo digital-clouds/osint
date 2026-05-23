@@ -13,6 +13,10 @@ updates:
       - "javascript"
     commit-message:
       prefix: "chore(deps):"
+    groups:
+      dependencies:
+        patterns:
+          - "*"
     ignore:
       - dependency-name: "vite"
         update-types: ["version-update:semver-major"]
@@ -29,3 +33,7 @@ updates:
       - "github-actions"
     commit-message:
       prefix: "chore(actions):"
+    groups:
+      github-actions:
+        patterns:
+          - "*"
