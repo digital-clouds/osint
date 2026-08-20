@@ -13,6 +13,11 @@ updates:
       - "javascript"
     commit-message:
       prefix: "chore(deps):"
+    groups:
+      production-dependencies:
+        dependency-type: "production"
+      development-dependencies:
+        dependency-type: "development"
     ignore:
       - dependency-name: "vite"
         update-types: ["version-update:semver-major"]
@@ -23,9 +28,15 @@ updates:
     schedule:
       interval: "weekly"
       day: "monday"
+      time: "04:00"
+      timezone: "UTC"
     open-pull-requests-limit: 5
     labels:
       - "dependencies"
       - "github-actions"
     commit-message:
       prefix: "chore(actions):"
+    groups:
+      actions:
+        patterns:
+          - "*"

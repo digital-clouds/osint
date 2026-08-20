@@ -4,27 +4,30 @@ cli:
 plugins:
   sources:
     - id: trunk
-      ref: v1.7.6
+      ref: v1.11.0
       uri: https://github.com/trunk-io/plugins
 lint:
   disabled:
     - yamllint
   enabled:
-    - checkov@3.2.524
+    - grype@0.110.0
+    - pinact@4.0.0
+    - checkov@3.3.12
     - osv-scanner@2.3.5
     - trufflehog@3.95.2
     - actionlint@1.7.12
     - git-diff-check
-    - gitleaks@8.30.1
-    - markdownlint@0.48.0
+    - gitleaks@8.29.0
+    - markdownlint@0.49.1
     - oxipng@10.1.1
-    - prettier@3.8.3
+    - prettier@3.9.6
     - taplo@0.10.0
+
 runtimes:
   enabled:
-    - go@1.21.0
+    - go@1.24.0
     - node@22.16.0
-    - python@3.10.8
+    - python@3.14.4
 actions:
   enabled:
     - trunk-announce
