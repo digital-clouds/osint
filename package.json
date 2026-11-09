@@ -19,7 +19,7 @@
     "pnpm": ">=10.0.0"
   },
   "dependencies": {
-    "d3": "7.9.0"
+    "d3": "7.9.2"
   },
   "devDependencies": {
     "vite": "8.3.0"
